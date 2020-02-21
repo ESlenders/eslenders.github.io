@@ -4,8 +4,8 @@ collection: team
 header:
   teaser: SC.jpg
 tags: post-doc
-tagline: Postdoc, Wellcome Funded
-date: 2020-02-21
+tagline: Wellcome Funded
+date: 2014-01-01
 email: 's.culley@ucl.ac.uk'
 ---
 
