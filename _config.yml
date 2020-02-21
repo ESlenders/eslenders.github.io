@@ -253,26 +253,6 @@ defaults:
       share: false
       comments: true
 
-  # _reviews
-  - scope:
-      path: ""
-      type: reviews
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comments: true
-
-  # _preprints
-  - scope:
-      path: ""
-      type: preprints
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comments: true
-
   # _bookchapters
   - scope:
       path: ""
