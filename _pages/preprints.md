@@ -6,8 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
-You can find the complete publication list on <a href="https://scholar.google.co.uk/citations?user=-peQ4ZsAAAAJ&hl=en">
-<span style="color:gray">my Google Scholar profile</span></a>.
+You can find the complete biorxiv preprint list on <a href="https://rxivist.org/authors/204048">
+<span style="color:gray">my Rxivist profile</span></a>.
 
 
 <ul>
@@ -25,10 +25,4 @@ You can find the complete publication list on <a href="https://scholar.google.co
   {% endif %}
   {% if forloop.last %}</ul>{% endif %}
 
-{% endfor %}
-
-
-<h2><span style="color:gray"> Bookchapters </span></h2>
-{% for post in site.bookchapters reversed %}
-  {% include archive-single-pub.html %}
 {% endfor %}
