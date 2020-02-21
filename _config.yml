@@ -7,19 +7,18 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Henriques Laboratory"
+title2                    : "Start page"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ricardo Henriques's Lab"
+description              : &description "Quantitative Imaging and NanoBioPhysics"
+url                      : https://henriqueslab.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "henriqueslab/henriqueslab.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -57,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter HenriquesLab
 facebook:
   username               :
   app_id                 :
@@ -71,24 +70,17 @@ social:
   links: # An array of links to social media profiles
 
 
-# Analytics
-analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Ricardo Henriques"
+  avatar           : "RH.jpg"
+  bio              : "Professor of Computational and Optical Biophysics, University College London and Francis Crick Institute"
+  location         : "London, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=-peQ4ZsAAAAJ&hl=en"
+  email            : "r.henriques@ucl.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,25 +88,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "HenriquesLab"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-2043-5234"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "HenriquesLab"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  researchgate     :
+
 
 
 # Reading Files
@@ -129,23 +122,22 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
   - Capfile
+  - CHANGELOG
+  - config
   - Gemfile
   - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
   - gulpfile.js
+  - LICENSE
   - log
   - node_modules
   - package.json
+  - Rakefile
+  - README
   - tmp
-  - vendor
 keep_files:
   - .git
   - .svn
@@ -181,10 +173,37 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  bookchapters:
+    output: true
+    permalink: /:collection/:path/
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  team:
+    output: true
+    permalink: /:collection/:path/
+  news:
+    output: true
+    permalink: /:collection/:path/
+  techniques:
+    output: true
+    permalink: /:collection/:path/
+  outreach:
+    output: true
+    permalink: /:collection/:path/
+  maintech:
+    output: true
+    permalink: /:collection/:path/
+  mainoutreach:
+    output: true
+    permalink: /:collection/:path/
+  gallery:
+    output: true
+    permalink: /:collection/:path/
+  contact:
     output: true
     permalink: /:collection/:path/
 
@@ -200,7 +219,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
@@ -216,7 +235,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _publications
   - scope:
@@ -225,25 +244,108 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
-  # _portfolio
+
+  # _bookchapters
   - scope:
       path: ""
-      type: portfolio
+      type: bookchapters
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
-  # _talks
+      share: false
+      comments: true
+
+  # _news
   - scope:
       path: ""
-      type: talks
+      type: news
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: true
+
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: talk
+      author_profile: false
+      share: false
+      comment: true
+
+  # _team
+  - scope:
+      path: ""
+      type: team
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: true
+
+  # _outreach
+  - scope:
+      path: ""
+      type: outreach
+    values:
+      layout: talk
+      author_profile: false
+      share: false
+      comment: true
+
+  # _maintech
+  - scope:
+      path: ""
+      type: maintech
+    values:
+      layout: talk
+      author_profile: false
+      share: false
+      comment: true
+
+  # _mainoutreach
+  - scope:
+      path: ""
+      type: mainoutreach
+    values:
+      layout: talk
+      author_profile: false
+      share: false
+      comment: true
+
+  # _techniques
+  - scope:
+      path: ""
+      type: techniques
+    values:
+      layout: talk
+      author_profile: false
+      share: false
+      comment: true
+
+  # _gallery
+  - scope:
+      path: ""
+      type: gallery
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
+      comment: true
+
+  # _contact
+  - scope:
+      path: ""
+      type: contact
+    values:
+      layout: talk
+      author_profile: true
+      share: false
+      comment: true
 
 # Sass/SCSS
 sass:
@@ -255,11 +357,11 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Brussels # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
