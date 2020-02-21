@@ -19,6 +19,6 @@ I am interested in developing and applying advanced microscopy techniques to dec
 <h2> Publications </h2>
 {% for post in site.publications reversed %}
   {% if post.authors contains "Laine" %}
-    {% include archive-single-pub.html %}
+    {% include archive-single-pub-associate.html %}
   {% endif %}
 {% endfor %}
