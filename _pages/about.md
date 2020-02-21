@@ -35,10 +35,3 @@ Check this preview video for a recent talk in our laboratory or our [publication
     <img src='/images/TalkScreenshot.png' style='width: 75%'>
   </a>
 </div>
-
-
-<body align="left">
-<img src='/images/lettericon.png' style='width: 40%'>
-
-{% include slider.html selector="home" %}
-<br>
