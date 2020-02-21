@@ -8,7 +8,7 @@ tagline: PhD Candidate
 date: 2020-02-21
 email: 'kalina.tosheva.16@ucl.ac.uk'
 ---
-{::options parse_block_html="true" /}
+<!-- {::options parse_block_html="true" /} -->
 
 <p align= "justify">
 <h2> Publications </h2>

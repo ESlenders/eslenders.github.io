@@ -9,7 +9,7 @@ date: 2020-02-21
 email: 'r.laine@ucl.ac.uk'
 ---
 
-{::options parse_block_html="true" /}
+<!-- {::options parse_block_html="true" /} -->
 
 <p align= "justify">
 
