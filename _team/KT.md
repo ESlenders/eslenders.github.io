@@ -8,7 +8,7 @@ tagline: MRC-LMCB PhD Programme
 date: 2017-09-05
 email: 'kalina.tosheva.16@ucl.ac.uk'
 ---
-<!-- {::options parse_block_html="true" /} -->
+My project aims to adapt single molecule localisation super-resolution techniques to light-sheet microscopy.
 
 <p align= "justify">
 <h2> Publications </h2>

@@ -8,7 +8,6 @@ tagline: BBSRC LiDO
 date: 2017-09-05
 email: 'yue.yuan.17@ucl.ac.uk'
 ---
-<!-- {::options parse_block_html="true" /} -->
 
 <p align= "justify">
 <h2> Publications </h2>

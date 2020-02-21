@@ -9,11 +9,11 @@ date: 2018-09-01
 email: 'r.laine@ucl.ac.uk'
 ---
 
-<!-- {::options parse_block_html="true" /} -->
-
 <p align= "justify">
-
 I am interested in developing and applying advanced microscopy techniques to decipher functional and structural organisation of life at multiple scales. For this, I develop analytical and optical tools.
+
+You can find the complete publication list on <a href="https://scholar.google.com/citations?user=eNRcCNEAAAAJ&hl=en">
+<span style="color:gray">Google Scholar</span></a>.
 
 <p align= "justify">
 <h2> Publications </h2>
