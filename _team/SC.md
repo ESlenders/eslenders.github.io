@@ -1,5 +1,5 @@
 ---
-title: "Romain Laine"
+title: "Siân Culley"
 collection: team
 header:
   teaser: SC.jpg
