@@ -3,11 +3,11 @@ main:
   - title: "News"
     url: /news/
 
-  - title: "Outreach"
-    url: /outreach/
+  # - title: "Outreach"
+  #   url: /outreach/
 
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
 
   - title: "Team"
     url: /team/
@@ -18,8 +18,8 @@ main:
   # - title: "Talks & Posters"
   #   url: /talks/
 
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
 
   #- title: "Gallery"
   #  url: /gallery/
@@ -27,8 +27,8 @@ main:
   #- title: "Positions"
   #  url: /positions/
 
-  - title: "Contact"
-    url: /contact/
+  # - title: "Contact"
+  #   url: /contact/
 #  - title: "Techniques"
 #    url: /techniques/
 
