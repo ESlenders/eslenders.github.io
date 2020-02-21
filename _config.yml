@@ -173,6 +173,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  preprints:
+    output: true
+    permalink: /:collection/:path/
   bookchapters:
     output: true
     permalink: /:collection/:path/
