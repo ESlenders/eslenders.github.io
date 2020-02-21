@@ -28,13 +28,3 @@ You can find the complete publication list on <a href="https://scholar.google.co
   {% if forloop.last %}</ul>{% endif %}
 
 {% endfor %}
-
-<!-- <h2><span style="color:gray"> Reviews </span></h2>
-{% for post in site.reviews reversed %}
-  {% include archive-single-pub.html %}
-{% endfor %} -->
-
-<!-- <h2><span style="color:gray"> Bookchapters </span></h2>
-{% for post in site.bookchapters reversed %}
-  {% include archive-single-pub.html %}
-{% endfor %} -->

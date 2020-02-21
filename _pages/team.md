@@ -59,9 +59,7 @@ author_profile: true
   {% endfor %}
 </div>
 
-<br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <div class="grid__wrapper">
   {% for post in site.projects %}

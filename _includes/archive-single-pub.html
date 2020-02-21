@@ -12,26 +12,21 @@
   {% assign title = post.title %}
 {% endif %}
 
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
+  {% if post.tagline contains 'Paper, Corresponding author' %}
+  <table style="border:1px dotted black;">
+  {% elsif post.tagline contains 'Preprint, Corresponding author' %}
+  <table style="border:1px dotted blue;">
+  {% else %}
+  <table style="border: none;">
+  {% endif %}
 
-    <table>
-
-
-      <tr>
+    <tr>
         <td width="80%" style="border: none;">
-          {% if include.type == "grid" and teaser %}
-            <div class="archive__item-teaser">
-              <img src=
-                {% if teaser contains "://" %}
-                  "{{ teaser }}"
-                {% else %}
-                  "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-                {% endif %}
-                alt="">
-            </div>
-
 
           <span style="font-size:1.05em; line-height: 0.1; font-weight:bold" class="archive__item-title" itemprop="headline">
             {% if post.link %}
@@ -49,8 +44,11 @@
           <span style="font-size:0.8em; line-height: 0.5;"><b>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%B %Y" }}</b></span>
           {% endif %}
 
-          {% if post.paperurl %}
-          <span style="font-size:0.8em; line-height: 0.5;"><b><cite>(see publication in <a href="{{ post.paperurl }}"> <u>Journal</u></a>  ) </cite></b></span><br>
+
+          {% if post.doi %}
+          <span style="font-size:0.8em; line-height: 0.5;"><b><cite>(see <a href="https://doi.org/{{ post.doi }}"> <u>publication</u></a>  ) </cite></b></span><br>
+          {% elsif post.paperurl %}
+          <span style="font-size:0.8em; line-height: 0.5;"><b><cite>(see <a href="{{ post.paperurl }}"> <u>publication</u></a>  ) </cite></b></span><br>
           {% else %}
           <br>
           {% endif %}
