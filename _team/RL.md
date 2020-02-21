@@ -4,7 +4,7 @@ collection: team
 header:
   teaser: RL.jpg
 tags: post-doc
-tagline: Postdoc
+tagline: Postdoc, MRC Fellow
 date: 2020-02-21
 email: 'r.laine@ucl.ac.uk'
 ---

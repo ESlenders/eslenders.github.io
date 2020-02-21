@@ -4,7 +4,7 @@ collection: team
 header:
   teaser: person.png
 tags: phd
-tagline: PhD Candidate
+tagline: PhD Candidate, MRC-LMCB PhD Programme
 date: 2020-02-21
 email: 'kalina.tosheva.16@ucl.ac.uk'
 ---

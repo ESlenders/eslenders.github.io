@@ -4,7 +4,7 @@ collection: team
 header:
   teaser: RH.png
 tags: PI
-tagline: Professor
+tagline: Professor, UCL and Crick Institute
 email: 'r.henriques@ucl.ac.uk'
 ---
 {::options parse_block_html="true" /}
