@@ -5,7 +5,7 @@ date: 2019-07-08
 venue: 'Nature microbiology'
 authors: 'Robert DM Gray, David Albrecht, Corina Beerli, Moona Huttunen, Gary H Cohen, Ian J White, Jemima J Burden, Ricardo Henriques, Jason Mercer'
 paperurl: https://www.nature.com/articles/s41564-019-0488-4
-tagline: '- Corresponding author'
+tagline: '- Paper, Corresponding author'
 
 ---
 
