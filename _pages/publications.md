@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-You can find the complete publication list on <a href="https://scholar.google.be/citations?user=OsiAwIYAAAAJ&hl=en&citsig=AMstHGQQx0uqfgCvrTEny2ghp98R3FtD5Q">
+You can find the complete publication list on <a href="https://scholar.google.co.uk/citations?user=-peQ4ZsAAAAJ&hl=en">
 <span style="color:gray">my Google Scholar profile</span></a>.
 
 
@@ -20,7 +20,7 @@ You can find the complete publication list on <a href="https://scholar.google.be
     <ul>
     {% assign date = currentdate %}
   {% endif %}
-  {% if post.authors contains 'Susana Rocha' %}
+  {% if post.authors contains 'Ricardo Henriques' %}
     {% include archive-single-pub.html %}
   {% endif %}
   {% if forloop.last %}</ul>{% endif %}
