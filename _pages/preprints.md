@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Preprints"
+permalink: /preprints/
 author_profile: true
 ---
 {% include base_path %}
@@ -11,7 +11,7 @@ You can find the complete publication list on <a href="https://scholar.google.co
 
 
 <ul>
-{% for post in site.publications reversed %}
+{% for post in site.preprints reversed %}
 
   {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}
