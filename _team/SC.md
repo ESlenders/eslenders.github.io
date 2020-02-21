@@ -18,6 +18,6 @@ My research centres on developing novel approaches for live-cell super-resolutio
 <h2> Publications </h2>
 {% for post in site.publications reversed %}
   {% if post.authors contains "Culley" %}
-    {% include archive-single-pub.html %}
+    {% include archive-single-pub-associate.html %}
   {% endif %}
 {% endfor %}

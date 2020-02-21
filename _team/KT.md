@@ -14,6 +14,6 @@ email: 'kalina.tosheva.16@ucl.ac.uk'
 <h2> Publications </h2>
 {% for post in site.publications reversed %}
   {% if post.authors contains "Tosheva" %}
-    {% include archive-single-pub.html %}
+    {% include archive-single-pub-associate.html %}
   {% endif %}
 {% endfor %}
