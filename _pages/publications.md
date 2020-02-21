@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 You can find the complete publication list on <a href="https://scholar.google.co.uk/citations?user=-peQ4ZsAAAAJ&hl=en">
-<span style="color:gray">my Google Scholar profile</span></a>. Also a complete list of bio<font color="red">R</font>&Chi;i&Nu; preprints on <a href="https://rxivist.org/authors/204048">
+<span style="color:gray">my Google Scholar profile</span></a>. Also a complete list of bio<font color="red">R</font>xiv preprints on <a href="https://rxivist.org/authors/204048">
 <span style="color:gray">my Rxivist profile</span></a>.
 
 
