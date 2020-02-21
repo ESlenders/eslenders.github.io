@@ -1,6 +1,6 @@
 ---
 title: "vLUME: 3D Virtual Reality for Single-molecule Localization Microscopy"
-collection: publications
+collection: preprints
 date: 2020-01-14
 venue: 'bioRxiv'
 authors: 'Alexander Spark, Alexandre Kitching, Daniel Esteban-Ferrer, Anoushka Handa, Alexander R Carr, Lisa-Maria Needham, Aleks Ponjavic, Mafalda Da Cunha Santos, James McColl, Christophe Leterrier, Simon J Davis, Ricardo Henriques, Steven F Lee'

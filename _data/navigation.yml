@@ -18,6 +18,9 @@ main:
   - title: "Preprints"
     url: /preprints/
 
+  - title: "Rxivist"
+    url: https://rxivist.org/authors/204048
+
   # - title: "Talks & Posters"
   #   url: /talks/
 

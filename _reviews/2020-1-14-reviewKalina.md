@@ -1,6 +1,6 @@
 ---
 title: "Between life and death: strategies to reduce phototoxicity in super-resolution microscopy"
-collection: publications
+collection: reviews
 date: 2020-01-14
 venue: 'Journal of Physics D: Applied Physics'
 authors: 'Kalina L Tosheva, Yue Yuan, Pedro Matos Pereira, Siân Culley, Ricardo Henriques'
