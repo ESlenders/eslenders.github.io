@@ -52,6 +52,11 @@
     {% if post.tagline %}
     <span style="font-size:0.85em; line-height: 0.5;"><i>{{ post.tagline }}</i></span><br>
     {% endif %}
+
+    {% if post.doi %}
+    <div data-badge-details="right" data-badge-type="donut" data-doi="{{ post.doi }}" data-condensed="true" class="altmetric-embed"></div>
+    <!-- <span style="font-size:0.85em; line-height: 0.5;"><i>{{ post.tagline }}</i></span><br> -->
+    {% endif %}
 <br>
 
   </article>
