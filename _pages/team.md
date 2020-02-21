@@ -15,7 +15,7 @@ author_profile: true
     {% endif %}
   {% endfor %}
 </div>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <div class="grid__wrapper">
   {% for post in site.projects %}
@@ -37,7 +37,7 @@ author_profile: true
   {% endfor %}
 </div>
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <div class="grid__wrapper">
   {% for post in site.projects %}
