@@ -10,6 +10,7 @@ You can find the complete publication list on <a href="https://scholar.google.co
 <span style="color:gray">my Google Scholar profile</span></a>. Also a complete list of bio<font color="red">R</font>xiv preprints on <a href="https://rxivist.org/authors/204048">
 <span style="color:gray">my Rxivist profile</span></a>.
 
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <ul>
 {% for post in site.publications reversed %}

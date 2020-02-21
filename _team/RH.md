@@ -2,7 +2,7 @@
 title: "Ricardo Henriques"
 collection: team
 header:
-  teaser: RH.png
+  teaser: RH2.jpg
 tags: PI
 tagline: Professor
 email: 'r.henriques@ucl.ac.uk'
