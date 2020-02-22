@@ -5,6 +5,7 @@ header:
   teaser: RL.jpg
 tags: post-doc
 tagline: MRC Fellow
+subject: "Study of viral host-pathogen interactions and development of optical super-resolution microscopy"
 date: 2017-12-01
 email: 'r.laine@ucl.ac.uk'
 ---
