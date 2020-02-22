@@ -24,7 +24,7 @@ We like to think of ourselves as <b>optical biologists</b>. We focus on addressi
 
 We're dominantly based at the [MRC Laboratory for Molecular Cell Biology](https://www.ucl.ac.uk/lmcb/) in [University College London](https://www.ucl.ac.uk/) with a small additional laboratory at [The Francis Crick Institute](https://www.crick.ac.uk/). Check out our projects page to know more about what we do.
 
-<img src='/images/LabPhotoWithNationalities.jpg' style='width: 100%'>
+<img src='/images/LabPhoto.jpg' style='width: 100%'>
 
 ### What we do
 
