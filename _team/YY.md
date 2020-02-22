@@ -12,6 +12,9 @@ prom: "Supervision: Prof. Ricardo Henriques, Prof. Mark Marsh, Prof. Dylan Owen,
 ---
 
 <p align= "justify">
+Host receptor engagements is one of the first steps during HIV entry. There is still a lack of explicit knowledge on the precise stoichiometry of the virus Env-receptor interaction or of how flexible this might be for a successful fusion event, especially from the perspective of predominant viral target cells (CD4+ T cells). A better understanding of PM receptor distributions, and how this is modulated by the virus, is still required.  I am aiming at characterising this dynamic process using Super-Resolution Microscopy on a single-cell level. We have successfully validated a pipeline to quantitatively analyse the topology of membrane receptors, CD4 and CCR5. Our next step is to investigate further what receptor topology makes a fusion-efficient by monitoring viral entry in living CD4+ T cells.
+
+<p align= "justify">
 <h2> Publications </h2>
 {% for post in site.publications reversed %}
   {% if post.authors contains "Yuan" %}
