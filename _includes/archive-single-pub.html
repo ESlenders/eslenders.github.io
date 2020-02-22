@@ -26,7 +26,6 @@
   {% endif %}
 
     <tr>
-
       <td width="10%" style="border: none;">
       {% if post.venue == "bioRxiv" %}
         <img src="{{ "cover_bioRxiv.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
@@ -69,7 +68,6 @@
           <span style="font-size:0.8em; line-height: 0.5;"><b>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%B %Y" }}</b></span>
           {% endif %}
 
-
           {% if post.doi %}
           <span style="font-size:0.8em; line-height: 0.5;"><b><cite>(see <a href="https://doi.org/{{ post.doi }}"> <u>publication</u></a>  ) </cite></b></span><br>
           {% elsif post.paperurl %}
@@ -87,8 +85,6 @@
       <td style="border: none;">
       <!-- <div data-badge-details="right" data-badge-type="donut" data-doi="{{ post.doi }}" data-condensed="true" class="altmetric-embed"></div> -->
       <div class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-doi="{{ post.doi }}"></div>
-      </td>
-      <td style="border: none;">
       <span class="__dimensions_badge_embed__" data-doi="{{ post.doi }}" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
       </td>
     {% endif %}
