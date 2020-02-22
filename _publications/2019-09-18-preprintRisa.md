@@ -1,7 +1,7 @@
 ---
 title: "Proteasome-mediated protein degradation resets the cell division cycle and triggers ESCRT-III-mediated cytokinesis in an archaeon"
 collection: publications
-date: 2019-01-01
+date: 2019-09-18
 venue: 'bioRxiv'
 authors: 'Gabriel Tarrason Risa, Fredrik Hurtig, Sian Bray, Anne E Hafner, Lena Harker-Kirschneck, Peter Faull, Colin Davis, Dimitra Papatziamou, Delyan R Mutavchiev, Catherine Fan, Leticia Meneguello, Andre Arashiro Pulschen, Gautam Dey, Siân Culley, Mairi Kilkenny, Luca Pellegrini, Robertus AM de Bruin, Ricardo Henriques, Ambrosius P Snijders, Anđela Šarić, Ann-Christin Lindås, Nick Robinson, Buzz Baum'
 paperurl: https://www.biorxiv.org/content/10.1101/774273v1.abstract

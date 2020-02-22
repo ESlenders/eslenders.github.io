@@ -1,7 +1,7 @@
 ---
 title: "Closed mitosis requires local disassembly of the nuclear envelope"
 collection: publications
-date: 2019-01-01
+date: 2019-09-23
 venue: 'bioRxiv'
 authors: 'Gautam Dey, Siân Culley, Scott Curran, Ricardo Henriques, Wanda Kukulski, Buzz Baum'
 paperurl: https://www.biorxiv.org/content/10.1101/779769v1.abstract

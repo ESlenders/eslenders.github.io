@@ -1,7 +1,7 @@
 ---
 title: "Fluctuation-Based Super-Resolution Traction Force Microscopy"
 collection: publications
-date: 2019-01-01
+date: 2019-09-18
 venue: 'bioRxiv'
 authors: 'Aki Stubb, Romain F Laine, Camilo Guzmán, Ricardo Henriques, Guillaume Jacquemet, Johanna Ivaska'
 paperurl: https://www.biorxiv.org/content/10.1101/772947v1.abstract
