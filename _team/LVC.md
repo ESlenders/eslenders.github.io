@@ -2,12 +2,13 @@
 title: "Lucas Von Chamier"
 collection: team
 header:
-  teaser: person.png
+  teaser: LVC.jpg
 tags: phd
 tagline: MRC-LMCB PhD
 subject: "Using artificial intelligence to achieve smart super-resolution microscopy"
 date: 2017-09-04
 email: 'lucas.chamier.13@ucl.ac.uk'
+prom: "Supervision: Prof. Ricardo Henriques, Dr. Romain Laine"
 ---
 
 <p align= "justify">

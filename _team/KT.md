@@ -8,6 +8,7 @@ tagline: MRC-LMCB PhD
 subject: "Quantitative evaluation of phototoxicity for live-cell super-resolution microscopy"
 date: 2017-09-05
 email: 'kalina.tosheva.16@ucl.ac.uk'
+prom: "Supervision: Prof. Ricardo Henriques"
 ---
 My project aims to adapt single molecule localisation super-resolution techniques to light-sheet microscopy.
 
