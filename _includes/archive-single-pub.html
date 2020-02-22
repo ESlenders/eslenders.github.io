@@ -20,12 +20,37 @@
   {% if post.tagline contains 'Paper, Corresponding author' %}
   <table style="border:1px dotted black;">
   {% elsif post.tagline contains 'Preprint, Corresponding author' %}
-  <table style="border:1px dotted blue;">
+  <table style="border:1px dotted black;">
   {% else %}
   <table style="border: none;">
   {% endif %}
 
     <tr>
+
+      <td width="10%" style="border: none;">
+      {% if post.venue == "bioRxiv" %}
+        <img src="{{ "cover_bioRxiv.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Journal of Physics D: Applied Physics" %}
+        <img src="{{ "cover_jphysd.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Nature methods" %}
+        <img src="{{ "cover_nmeth.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Nature communications" %}
+        <img src="{{ "cover_ncomm.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Nature microbiology" %}
+        <img src="{{ "cover_nmicro.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Scientific reports" %}
+        <img src="{{ "cover_scirep.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "SPIE" %}
+        <img src="{{ "cover_spie.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Frontiers in immunology" %}
+        <img src="{{ "cover_frontimmun.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Biochemical Society Transactions" %}
+        <img src="{{ "cover_biochemsoctrans.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "The annals of applied statistics" %}
+        <img src="{{ "cover_annalsstat.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% endif %}
+      </td>
+
         <td width="80%" style="border: none;">
 
           <span style="font-size:1.05em; line-height: 0.1; font-weight:bold" class="archive__item-title" itemprop="headline">
