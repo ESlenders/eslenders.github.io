@@ -8,6 +8,9 @@ tagline: Wellcome Funded
 subject: "Study of extremophiles and development of optical super-resolution microscopy"
 date: 2014-01-01
 email: 's.culley@ucl.ac.uk'
+twitter: 'SuperResoluSian'
+googlescholar: "https://scholar.google.com/citations?hl=en&user=yQfJ1loAAAAJ"
+orcid: "https://orcid.org/0000-0003-2112-0143"
 ---
 
 <!-- {::options parse_block_html="true" /} -->

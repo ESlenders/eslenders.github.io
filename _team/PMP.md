@@ -6,11 +6,17 @@ header:
 tags: alumni
 tagline: Postdoc
 subject: "Super-Beacons and Beacon-STORM: a new generation of small tunable photoswitching probes and Super-Resolution approaches."
-date: 2014-01-01
-email: 'pmatos@itqb.unl.pt>'
+date-start: 2014-01-01
+date-end: 2018-12-01
+email: 'pmatos@itqb.unl.pt'
+twitter: 'P_Matos_Pereira'
+orcid: https://orcid.org/0000-0002-1426-9540
+googlescholar: https://scholar.google.co.uk/citations?user=I-dQvQ0AAAAJ&hl=en
 ---
 
 <p align= "justify">
+I am a cell biologist with extensive scientific knowledge in microbiology, host-pathogen interaction and advanced microscopy approaches. I have over 10 years experience in scientific project design/management, undergraduate and postgraduate student supervision and writing/communication of scientific information to both expert and non-expert audiences. To attest to this I am lead author in several high profile publications with over 1300 citations with an H-index of 17 (Google Scholar: dQvQ0AAAAJ), have supervised multiple Master and PhD students, and have been actively involved in several outreach initiatives (In2Science, ITQB-NOVA open day). I have served in several decision boards in Universidade Nova de Lisboa, University College London and the Francis Crick Institute where I have worked with academic, industrial and political partners to define scientific and institutional vision and impact strategies. Experience that has provided me with a comprehensive view about research and the scientific endeavour. From a research point of view I have made significant contributions in the fields of S. aureus microbiology (e.g. discovering a link between peptidoglycan and wall teichoic acids biosynthesis), host-pathogen interaction (e.g. importance of autolysins for immune evasion, or the role of septins in the recognition of intracellular pathogens) and hardware and software technological innovations for microscopy (e.g. NanoJ-Fluidics and NanoJ-SRRF). These contributions and experience when combined with proven problem solving, teamwork and leadership skills, support my goal of leading an interdisciplinary research group in Europe focused on host-pathogen interaction.
+
 <h2> Publications (<a href="https://scholar.google.co.uk/citations?user=I-dQvQ0AAAAJ&hl=en"><span style="color:gray">Google Scholar</span></a>)</h2>
 {% for post in site.publications reversed %}
   {% if post.authors contains "Pereira" %}
