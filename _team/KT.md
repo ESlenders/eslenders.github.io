@@ -2,7 +2,7 @@
 title: "Kalina Tosheva"
 collection: team
 header:
-  teaser: person.png
+  teaser: KT.jpg
 tags: phd
 tagline: MRC-LMCB
 subject: "Quantitative evaluation of phototoxicity for live-cell super-resolution microscopy"

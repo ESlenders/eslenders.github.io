@@ -7,6 +7,7 @@ tags: PI
 tagline: Professor
 date: 2013-09-01
 email: 'r.henriques@ucl.ac.uk'
+cv: "https://henriqueslab.github.io/files/Ricardo_Henriques_CV.pdf"
 ---
 {::options parse_block_html="true" /}
 
