@@ -4,7 +4,7 @@ collection: team
 header:
   teaser: person.png
 tags: phd
-tagline: MRC-LMCB PhD
+tagline: MRC-LMCB
 subject: "Quantitative evaluation of phototoxicity for live-cell super-resolution microscopy"
 date: 2017-09-05
 email: 'kalina.tosheva.16@ucl.ac.uk'
