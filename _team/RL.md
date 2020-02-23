@@ -8,6 +8,7 @@ tagline: MRC Research Fellow
 subject: "Study of viral infection and development of optical super-resolution microscopy"
 date: 2017-12-01
 email: 'r.laine@ucl.ac.uk'
+twitter: 'https://twitter.com/LaineBioImaging'
 ---
 
 <p align= "justify">
