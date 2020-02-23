@@ -18,15 +18,14 @@ date: 2017-12-01
 email: 'r.laine@ucl.ac.uk'
 ---
 
-
-<p> <b>Overview:</b>
   <p align= "justify">
+<p> <b>Overview:</b>
 I am interested in developing and applying advanced microscopy techniques to decipher functional and structural organisation of life at multiple scales. For this, I develop analytical and optical tools. You can find me on Twitter (@LaineBioImaging), in the optics lab tinkering with microscopes or on my computer developing image analyses. </p>
 
 <p> <b> Links</b>
- <br> Twitter <a href="https://twitter.com/LaineBioImaging">@LaineBioImaging</a> 
- <br> Google scholar <a href="https://scholar.google.co.uk/citations?hl=en&user=eNRcCNEAAAAJ">here</a> 
- <br> MRC-LMCB <a href="https://www.ucl.ac.uk/lmcb/users/romain-laine"> here</a></p>
+ <br> <a href="https://twitter.com/LaineBioImaging">Twitter @LaineBioImaging</a> 
+ <br> <a href="https://scholar.google.co.uk/citations?hl=en&user=eNRcCNEAAAAJ">Google scholar</a> 
+ <br> <a href="https://www.ucl.ac.uk/lmcb/users/romain-laine"> MRC-LMCB </a></p>
  
  
 <p> <b>Background and how I ended up coming to the LMCB? </b>
