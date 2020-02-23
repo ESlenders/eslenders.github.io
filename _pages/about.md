@@ -35,3 +35,7 @@ Check this preview video for a recent talk in our laboratory or our [publication
     <img src='/images/TalkScreenshot.png' style='width: 75%'>
   </a>
 </div>
+
+### About the HenriquesLab logo
+
+The logo at the top of this page has been kindly designed by [Dr. Siân Culley](team/SC/).
