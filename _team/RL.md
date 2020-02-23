@@ -42,5 +42,3 @@ Capoeira and cooking ! (a well-balanced system of input and output of calories).
 {% endfor %}
 
 
-[myTwitter]: https://twitter.com/LaineBioImaging
-
