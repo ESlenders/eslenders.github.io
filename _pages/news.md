@@ -13,9 +13,3 @@ tweets:
 {% for tweet in page.tweets %}
   {% twitter tweet align=justify width=350 %}
 {% endfor %}
-
-{% include base_path %}
-
-{% for post in site.news reversed %}
-  {% include archive-single-news.html %}
-{% endfor %}
