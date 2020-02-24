@@ -7,6 +7,7 @@ authors: 'Romain F Laine, Kalina L Tosheva, Nils Gustafsson, Robert DM Gray, Ped
 paperurl: https://iopscience.iop.org/article/10.1088/1361-6463/ab0261/meta
 doi: 10.1088/1361-6463/ab0261
 tagline: '- Paper, Corresponding author'
+type: 'software, methods'
 
 ---
 

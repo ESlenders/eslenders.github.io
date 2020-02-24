@@ -1,0 +1,18 @@
+---
+title: "New Methods"
+collection: research
+date: 2016-08-01
+author_profile: false
+sidebar:
+  nav: "Tech"
+header:
+  teaser: software.jpg
+layout: archive
+---
+
+<h2>  Publications: </h2>
+{% for post in site.publications reversed %}
+  {% if post.type contains 'methods' %}
+    {% include archive-single-pub.html %}
+  {% endif %}
+{% endfor %}

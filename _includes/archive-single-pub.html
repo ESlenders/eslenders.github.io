@@ -59,6 +59,18 @@
         <img src="{{ "cover_devcell.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Cell host & microbe" %}
         <img src="{{ "cover_chm.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Methods in cell biology" %}
+        <img src="{{ "cover_micb.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "EMBO reports" %}
+        <img src="{{ "cover_emborep.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "PLoS pathogens" %}
+        <img src="{{ "cover_plospath.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "The Journal of Immunology" %}
+        <img src="{{ "cover_ji.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.title == "Standard and super-resolution bioimaging data analysis: a primer" %}
+        <img src="{{ "cover_primer.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% else %}
+        <img src="{{ "journal.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% endif %}
       </td>
 
@@ -87,7 +99,7 @@
                       <a href="{{ team.url }}"><u>{{ author }}</u></a>
                     {% endif %}
                     {% assign found = true %}
-                    
+
                   {% endif %}
                 {% endfor %}
                 {% if found != true %}

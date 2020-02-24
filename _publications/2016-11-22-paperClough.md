@@ -7,7 +7,7 @@ authors: 'Barbara Clough, Joseph D Wright, Pedro M Pereira, Elizabeth M Hirst, A
 paperurl: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5119857/
 doi: 10.1371/journal.ppat.1006027
 tagline: '- Paper'
-
+type: 'host-pathogen, microbiology'
 ---
 
 <h2> Abstract </h2>

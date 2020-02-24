@@ -210,7 +210,12 @@ collections:
   contact:
     output: true
     permalink: /:collection/:path/
-
+  contact:
+    output: true
+    permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -301,10 +306,10 @@ defaults:
       share: false
       comment: true
 
-  # _maintech
+  # _research
   - scope:
       path: ""
-      type: maintech
+      type: research
     values:
       layout: talk
       author_profile: false
