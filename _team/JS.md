@@ -1,5 +1,6 @@
 ---
 title: "Jerzy Samolej"
+authorname: "Jerzy Samolej"
 collection: team
 header:
   teaser: JS.jpg
@@ -11,11 +12,8 @@ date-end: 2018-12-01
 email: 'jerzy.samolej.14@alumni.ucl.ac.uk'
 twitter: 'SamolejJ'
 supervisors: 'Prof. Jason Mercer and Prof. Ricardo Henriques'
+thesis: https://discovery.ucl.ac.uk/id/eprint/10084542/
 ---
 
-<h2> Publications </h2>
-{% for post in site.publications reversed %}
-  {% if post.authors contains "Samolej" %}
-    {% include archive-single-pub-associate.html %}
-  {% endif %}
-{% endfor %}
+{% include thesis-reference.html %}
+{% include publication-list.html %}

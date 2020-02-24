@@ -1,5 +1,6 @@
 ---
 title: "Romain F. Laine"
+authorname: "Laine"
 collection: team
 header:
   teaser: RL.jpg
@@ -31,11 +32,4 @@ Head of my own lab, working on fast 3D microscopy to understand viral replicatio
 
 Capoeira and cooking ! (a well-balanced system of input and output of calories). </p>
 
-
-<p align= "justify">
-<h2> Publications (<a href="https://scholar.google.com/citations?user=eNRcCNEAAAAJ&hl=en"><span style="color:gray">Google Scholar</span></a>)</h2>
-{% for post in site.publications reversed %}
-  {% if post.authors contains "Laine" %}
-    {% include archive-single-pub-associate.html %}
-  {% endif %}
-{% endfor %}
+{% include publication-list.html %}

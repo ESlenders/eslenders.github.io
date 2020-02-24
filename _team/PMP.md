@@ -1,5 +1,6 @@
 ---
 title: "Pedro Matos Pereira"
+authorname: "Pereira"
 collection: team
 header:
   teaser: PMP.jpg
@@ -16,9 +17,4 @@ googlescholar: https://scholar.google.co.uk/citations?user=I-dQvQ0AAAAJ&hl=en
 
 <p align= "justify">
 
-<h2> Publications (<a href="https://scholar.google.co.uk/citations?user=I-dQvQ0AAAAJ&hl=en"><span style="color:gray">Google Scholar</span></a>)</h2>
-{% for post in site.publications reversed %}
-  {% if post.authors contains "Pereira" %}
-    {% include archive-single-pub-associate.html %}
-  {% endif %}
-{% endfor %}
+{% include publication-list.html %}

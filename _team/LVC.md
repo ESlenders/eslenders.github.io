@@ -1,5 +1,6 @@
 ---
 title: "Lucas Von Chamier"
+authorname: "Chamier"
 collection: team
 header:
   teaser: LVC.jpg
@@ -11,10 +12,4 @@ email: 'lucas.chamier.13@ucl.ac.uk'
 prom: "Supervision: Prof. Ricardo Henriques, Dr. Romain Laine"
 ---
 
-<p align= "justify">
-<h2> Publications </h2>
-{% for post in site.publications reversed %}
-  {% if post.authors contains "Chamier" %}
-    {% include archive-single-pub-associate.html %}
-  {% endif %}
-{% endfor %}
+{% include publication-list.html %}

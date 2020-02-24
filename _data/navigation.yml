@@ -28,7 +28,7 @@ main:
     url: /contact/
 
   - title: "CV"
-    url: /cv/
+    url: https://henriqueslab.github.io/files/Ricardo_Henriques_CV.pdf
 
 #  - title: "Techniques"
 #    url: /techniques/

@@ -1,5 +1,6 @@
 ---
 title: "David Albrecht"
+authorname: "Albrecht"
 collection: team
 header:
   teaser: DA.jpg
@@ -17,9 +18,4 @@ googlescholar: https://scholar.google.com/citations?user=7QMAozEAAAAJ&hl=en
 <p align= "justify">
 Note: David jointly did research between the laboratory of Dr. Jason Mercer and my own.
 
-<h2> Publications (<a href="https://scholar.google.com/citations?user=7QMAozEAAAAJ&hl=en"><span style="color:gray">Google Scholar</span></a>)</h2>
-{% for post in site.publications reversed %}
-  {% if post.authors contains "Albrecht" %}
-    {% include archive-single-pub-associate.html %}
-  {% endif %}
-{% endfor %}
+{% include publication-list.html %}

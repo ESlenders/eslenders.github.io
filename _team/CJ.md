@@ -1,5 +1,6 @@
 ---
 title: "Caron Jacobs"
+authorname: "Caron Jacobs"
 collection: team
 header:
   teaser: CJ.jpg
@@ -11,11 +12,10 @@ date-end: 2018-03-01
 email: 'caron.jacobs.14@alumni.ucl.ac.uk'
 twitter: 'caron_g'
 supervisors: 'Prof. Ricardo Henriques and Prof. Mark Marsh'
+googlescholar: https://scholar.google.com/citations?user=FNze27gAAAAJ&hl=en
+thesis: https://discovery.ucl.ac.uk/id/eprint/10056281/
+
 ---
 
-<h2> Publications </h2>
-{% for post in site.publications reversed %}
-  {% if post.authors contains "Jacobs" %}
-    {% include archive-single-pub-associate.html %}
-  {% endif %}
-{% endfor %}
+{% include thesis-reference.html %}
+{% include publication-list.html %}
