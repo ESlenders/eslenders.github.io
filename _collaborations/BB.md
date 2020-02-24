@@ -6,7 +6,7 @@ header:
   teaser: BB.jpg
 tags: collaborator
 date: 2018-04-01
-tagline: University College London
+tagline: "Cell Morphogenesis Lab, University College London"
 subject: "Study of fundamental biology through advanced imaging"
 email: 'b.baum@ucl.ac.uk'
 googlescholar: https://scholar.google.co.uk/citations?user=FEfP9AsAAAAJ&hl=en
