@@ -15,4 +15,6 @@ prom: "Supervision: Prof. Ricardo Henriques"
 <p align= "justify">
 My project aims to adapt single molecule localisation super-resolution techniques to light-sheet microscopy.
 
+{% include author-research-themes.html %}
+{% include team-member-collaborators.html %}
 {% include publication-list.html %}

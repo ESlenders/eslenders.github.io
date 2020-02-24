@@ -1,0 +1,14 @@
+<h2> Team members collaborating </h2>
+<div class="grid">
+  <div class="wrapper">
+    {% for member in site.team %}
+      {% for pub in site.publications %}
+        {% if pub.authors contains page.authorname and pub.authors contains member.authorname %}
+          {% assign post = member %}
+          {% include archive-single-proj.html type="grid" %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </div>
+</div>

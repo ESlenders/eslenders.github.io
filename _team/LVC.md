@@ -12,4 +12,6 @@ email: 'lucas.chamier.13@ucl.ac.uk'
 prom: "Supervision: Prof. Ricardo Henriques, Dr. Romain Laine"
 ---
 
+{% include author-research-themes.html %}
+{% include team-member-collaborators.html %}
 {% include publication-list.html %}

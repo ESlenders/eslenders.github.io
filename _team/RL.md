@@ -12,6 +12,7 @@ email: 'r.laine@ucl.ac.uk'
 twitter: LaineBioImaging
 googlescholar: "https://scholar.google.co.uk/citations?hl=en&user=eNRcCNEAAAAJ"
 orcid: "https://orcid.org/0000-0002-2151-4487"
+collaborators: "Christophe Leterrier, Bassam Hajj"
 ---
 
 <p> <b>Overview:</b>
@@ -32,4 +33,6 @@ Head of my own lab, working on fast 3D microscopy to understand viral replicatio
 
 Capoeira and cooking ! (a well-balanced system of input and output of calories). </p>
 
+{% include author-research-themes.html %}
+{% include team-member-collaborators.html %}
 {% include publication-list.html %}

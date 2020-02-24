@@ -12,6 +12,3 @@ prom: "Supervision: Dr. Romain Laine and Prof. Ricardo Henriques"
 ---
 
 <p align= "justify">
-
-
-{% include publication-list.html %}

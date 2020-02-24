@@ -13,8 +13,10 @@ email: 'pedro.almada.13@alumni.ucl.ac.uk'
 twitter: 'palmada86'
 supervisors: 'Prof. Ricardo Henriques'
 thesis: https://discovery.ucl.ac.uk/id/eprint/10041569/
-
+collaborators: "Christophe Leterrier"
 ---
 
 {% include thesis-reference.html %}
+{% include author-research-themes.html %}
+{% include team-member-collaborators.html %}
 {% include publication-list.html %}

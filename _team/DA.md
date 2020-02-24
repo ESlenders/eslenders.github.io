@@ -18,4 +18,6 @@ googlescholar: https://scholar.google.com/citations?user=7QMAozEAAAAJ&hl=en
 <p align= "justify">
 Note: David jointly did research between the laboratory of Dr. Jason Mercer and my own.
 
+{% include author-research-themes.html %}
+{% include team-member-collaborators.html %}
 {% include publication-list.html %}

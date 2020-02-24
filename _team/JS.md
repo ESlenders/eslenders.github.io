@@ -16,4 +16,6 @@ thesis: https://discovery.ucl.ac.uk/id/eprint/10084542/
 ---
 
 {% include thesis-reference.html %}
+{% include author-research-themes.html %}
+{% include team-member-collaborators.html %}
 {% include publication-list.html %}
