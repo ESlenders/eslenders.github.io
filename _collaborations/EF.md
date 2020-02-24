@@ -5,7 +5,7 @@ collection: collaborations
 header:
   teaser: EF.jpg
 tags: collaborator
-date: 2018-04-01
+date: 2016-11-01
 tagline: "Host-Toxoplasma Interaction Lab, University of Birmingham"
 subject: "Study of host-pathogen interactions through advanced imaging"
 email: 'Eva.Frickel@crick.ac.uk'
