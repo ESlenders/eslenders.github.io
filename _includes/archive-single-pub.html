@@ -73,7 +73,35 @@
           </span>
 
           {% if post.authors %}
-          <br><span style="font-size:0.85em; line-height: 0.5;"><i>{{ post.authors }}</i></span><br>
+            {% assign authors = post.authors | split: ", " %}
+            {% assign found = false %}
+            {% assign nauthors = authors.size | minus: 1 %}
+
+            {% capture author_names %}
+              {% for author in authors %}
+                {% for team in site.team %}
+                  {% if author contains team.authorname %}
+                    {% if author != authors[nauthors] %}
+                      <a href="{{ team.url }}"><u>{{ author }}</u></a>,
+                    {% else %}
+                      <a href="{{ team.url }}"><u>{{ author }}</u></a>
+                    {% endif %}
+                    {% assign found = true %}
+                    
+                  {% endif %}
+                {% endfor %}
+                {% if found != true %}
+                  {% if author != authors[nauthors] %}
+                    {{ author }},
+                  {% else %}
+                    {{ author }}
+                  {% endif %}
+                {% endif %}
+                {% assign found = false %}
+              {% endfor %}
+            {% endcapture %}
+
+            <br><span style="font-size:0.85em; line-height: 0.5;"><i>{{ author_names }}</i></span><br>
           {% endif %}
 
           {% if post.collection == 'publications' %}
