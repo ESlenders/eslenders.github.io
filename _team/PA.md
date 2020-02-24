@@ -1,0 +1,20 @@
+---
+title: "Pedro Almada"
+authorname: "Almada"
+collection: team
+header:
+  teaser: PA.jpg
+tags: alumni
+tagline: PhD Student
+subject: "Developing Highly Multiplexed Technology for High-throughput Super-resolution Fluorescence Microscopy"
+date-start: 2013-10-01
+date-end: 2017-09-01
+email: 'pedro.almada.13@alumni.ucl.ac.uk'
+twitter: 'palmada86'
+supervisors: 'Prof. Ricardo Henriques'
+thesis: https://discovery.ucl.ac.uk/id/eprint/10041569/
+
+---
+
+{% include thesis-reference.html %}
+{% include publication-list.html %}

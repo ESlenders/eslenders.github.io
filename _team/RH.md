@@ -1,5 +1,6 @@
 ---
 title: "Ricardo Henriques"
+authorname: "Ricardo Henriques"
 collection: team
 header:
   teaser: RH2.jpg

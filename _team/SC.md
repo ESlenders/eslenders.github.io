@@ -1,6 +1,6 @@
 ---
 title: "Siân Culley"
-authorname: "Siân Culley"
+authorname: "Culley"
 collection: team
 header:
   teaser: SC.jpg
