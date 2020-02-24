@@ -5,7 +5,7 @@ collection: collaborations
 header:
   teaser: GJ.jpg
 tags: collaborator
-date: 2018-04-01
+date: 2019-09-01
 tagline: Cell Migration Lab, Åbo Akademi University
 subject: "Co-development of advanced imaging approaches"
 email: 'guillaume.jacquemet@utu.fi'
