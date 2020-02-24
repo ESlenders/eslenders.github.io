@@ -39,7 +39,7 @@ layout: default
           <i>{{ page.authors }}</i>
         {% endif %}
 
-        {% if page.collection == 'team' %}
+        {% if page.collection == 'team' or page.collection == 'collaborations' %}
           <hr-bold>
           <br>
           <div class='pull-right' style='width: 25%; height: 210px; padding: 5px; object-fit: contain;'>
@@ -50,7 +50,7 @@ layout: default
 
             {% if page.date-start %}
             <br> Started {{ page.date-start | default: "1900-01-01" | date: "%B, %Y" }}; ended {{ page.date-end | default: "1900-01-01" | date: "%B, %Y" }}
-            {% elsif page.date %}
+            {% elsif page.date and page.tags != "collaborator" %}
             <br> Started on {{ page.date | default: "1900-01-01" | date: "%B, %Y" }}
             {% endif %}
 

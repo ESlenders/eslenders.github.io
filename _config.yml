@@ -210,7 +210,7 @@ collections:
   contact:
     output: true
     permalink: /:collection/:path/
-  contact:
+  collaborations:
     output: true
     permalink: /:collection/:path/
   research:
@@ -290,6 +290,16 @@ defaults:
   - scope:
       path: ""
       type: team
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: true
+
+  # _collaborations
+  - scope:
+      path: ""
+      type: collaborations
     values:
       layout: single
       author_profile: true
