@@ -26,6 +26,5 @@ This goal can be achieved only working across many disciplines, from physics to 
 
 ## The Laboratory
 
-We're dominantly based at the [MRC Laboratory for Molecular Cell Biology](https://www.ucl.ac.uk/lmcb/) in [University College London](https://www.ucl.ac.uk/) with a small additional laboratory at [The Francis Crick Institute](https://www.crick.ac.uk/). Check out our [research page](research) to know more about what we do.
+We're dominantly based at the Center for Human Technology at the [Italian Institute of Technology](https://iit.it).
 
-<img src='/images/LabPhoto.jpg' style='width: 100%'>
