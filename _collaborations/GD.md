@@ -12,7 +12,6 @@ email: 'g.dey@ucl.ac.uk'
 googlescholar: https://scholar.google.co.uk/citations?user=7kZTy8YAAAAJ&hl=en
 orcid: https://orcid.org/0000-0003-1416-6223
 twitter: Dey_Gautam
-theme: "hardware"
 ---
 <p align= "justify">
 
