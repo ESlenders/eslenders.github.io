@@ -9,6 +9,7 @@ subject: "Artificial intelligence to recognise patterns in cell behaviour"
 date: 2018-09-24
 email: 't.ho.17@ucl.ac.uk'
 supervisors: "Prof. Ricardo Henriques, Prof. Buzz Baum, Dr. Alan Lowe"
+collaborators: "Gautam Dey"
 ---
 
 <p align= "justify">
