@@ -11,7 +11,7 @@ date-start: 2013-10-01
 date-end: 2017-09-01
 email: 'pedro.almada.13@alumni.ucl.ac.uk'
 twitter: 'palmada86'
-supervisors: 'Prof. Ricardo Henriques'
+supervisors: 'Prof. Ricardo Henriques and Prof. Guillaume Charras'
 thesis: https://discovery.ucl.ac.uk/id/eprint/10041569/
 collaborators: "Christophe Leterrier"
 ---
