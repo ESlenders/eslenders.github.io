@@ -13,12 +13,15 @@ image_sliders:
 {::options parse_block_html="true" /}
 
 <div style="text-align: center">
-<img src='/images/HenriquesLabLogo.jpg' style='width: 75%'>
+# <img src='/images/HenriquesLabLogo.jpg' style='width: 75%'>
 </div>
 
-### Who are we
+# ### Who are we
 <body align="justify">
-We like to think of ourselves as <b>optical biologists</b>. We focus on addressing <b>biomedical questions</b> by exploiting advancements we develop in <b>optical microscopy</b>. To do so, we create <b>open-technology</b> that pushes the boundaries of <b>cellular imaging</b>. All our research and methods are transparent, reproducible and widely available to researchers. In biology, we tackle broad <b>virology, host-pathogen interactions, immunology and cell signalling</b> questions. We do so by establishing <b>new classes of fluorescent probes, high-speed cell-friendly super-resolution methods and computational modelling approaches</b> that, although designed to answer questions of interest in the lab, have extensive cross-disciplinary applications.
+Because of their non-invasive effect on living systems, light microscopy and spectroscopy have been the workhorses for studies of structures and functions at the cellular, sub-cellular and molecular levels for almost a century.
+However, many challenging questions of molecular and cellular biology remain beyond their conventional capabilities. The temporal and spatial resolutions, the labeling and contrast methods of conventional microscopy and spectroscopy pose fundamental limits for investigating the smallest and fastest puzzling mysteries of life.
+The core research of our group is the design, development and validation of novel optical and analytical tools that allow the modern biologists to peer inside living cells and organisms with unprecedented temporal-spatial resolutions and minimal invasivity.
+This goal can be achieved only working across many disciplines, from physics to engineering, from computer science to biology. Our projects want to synergicaly integrate novel contrast imaging mechanisms, labeling probes, optical architectures and computational approaches that can be readily adopted by IIT's biologists and researchers all over the world.
 
 ### The Laboratory
 
