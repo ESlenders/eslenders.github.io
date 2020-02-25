@@ -2,7 +2,7 @@
 title: "Neza Vadnjal"
 collection: team
 header:
-  teaser: person.png
+  teaser: NV.jpg
 tags: phd
 tagline: MRC-LMCB
 subject: "Investigate the molecules controlling actin network architecture and their influence on cortex tension generation"
@@ -13,3 +13,5 @@ supervisors: "Prof. Ewa Paluch (Univ. Cambridge), Prof. Ricardo Henriques (UCL)"
 ---
 <p align= "justify">
 The cellular actin cortex offers mechanical support to animal cells. Cell shape changes are consequences of changes in the mechanical properties of the cortex, particularly in cortical tension. The aim of my project is to investigate the molecules controlling actin network architecture and their influence on cortex tension generation.
+
+{% include team-member-collaborators.html %}

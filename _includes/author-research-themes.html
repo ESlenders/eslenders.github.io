@@ -2,13 +2,17 @@
 <div class="grid">
   <div class="wrapper">
     {% for theme in site.research %}
-      {% for pub in site.publications %}
-        {% if pub.authors contains page.authorname and pub.type contains theme.type %}
-          {% assign post = theme %}
-          {% include archive-single-proj.html type="grid" %}
-          {% break %}
-        {% endif %}
-      {% endfor %}
+      {% assign post = theme %}
+      {% if page.theme contains theme.type %}
+        {% include archive-single-proj.html type="grid" %}
+      {% else %}
+        {% for pub in site.publications %}
+          {% if pub.authors contains page.authorname and pub.type contains theme.type %}
+            {% include archive-single-proj.html type="grid" %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
     {% endfor %}
   </div>
 </div>

@@ -8,8 +8,10 @@ tagline: BBSRC LiDO iCASE
 subject: "Artificial intelligence to recognise patterns in cell behaviour"
 date: 2018-09-24
 email: 't.ho.17@ucl.ac.uk'
-prom: "Supervision: Prof. Ricardo Henriques, Prof. Buzz Baum, Dr. Alan Lowe"
+supervisors: "Prof. Ricardo Henriques, Prof. Buzz Baum, Dr. Alan Lowe"
 ---
 
 <p align= "justify">
 Dedicated to interdisciplinary research. Recently developed an interest for AI and Machine Learning, following from previous studies in Neuroscience and Dementia. Current PhD work focuses on exploring the potential of deep neural networks to elucidate cell biology mechanisms given the high complexity of live-cell imaging data.
+
+{% include team-member-collaborators.html %}

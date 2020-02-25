@@ -2,13 +2,17 @@
 <div class="grid">
   <div class="wrapper">
     {% for member in site.team %}
-      {% for pub in site.publications %}
-        {% if pub.authors contains page.authorname and pub.authors contains member.authorname %}
-          {% assign post = member %}
-          {% include archive-single-proj.html type="grid" %}
-          {% break %}
-        {% endif %}
-      {% endfor %}
+      {% assign post = member %}
+      {% if member.supervisors contains page.authorname or member.collaborators contains page.authorname %}
+        {% include archive-single-proj.html type="grid" %}
+      {% else %}
+        {% for pub in site.publications %}
+          {% if pub.authors contains page.authorname and pub.authors contains member.authorname %}
+            {% include archive-single-proj.html type="grid" %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
     {% endfor %}
   </div>
 </div>
