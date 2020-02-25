@@ -10,7 +10,7 @@ subject: "Using artificial intelligence to achieve smart super-resolution micros
 date: 2017-09-04
 email: 'lucas.chamier.13@ucl.ac.uk'
 supervisors: "Prof. Ricardo Henriques, Dr. Romain Laine"
-collaborators: "Guillaume Jacquemet"
+collaborators: "Guillaume Jacquemet, Loïc Royer"
 ---
 
 {% include author-research-themes.html %}

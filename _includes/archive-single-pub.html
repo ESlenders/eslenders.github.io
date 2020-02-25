@@ -94,14 +94,25 @@
                 {% for team in site.team %}
                   {% if author contains team.authorname %}
                     {% if author != authors[nauthors] %}
-                      <a href="{{ team.url }}"><u>{{ author }}</u></a>,
+                      <a href="{{ team.url }}">*<u>{{ author }}</u>*</a>,
                     {% else %}
-                      <a href="{{ team.url }}"><u>{{ author }}</u></a>
+                      <a href="{{ team.url }}">*<u>{{ author }}</u>*</a>
                     {% endif %}
                     {% assign found = true %}
-
                   {% endif %}
                 {% endfor %}
+
+                {% for collaborator in site.collaborations %}
+                  {% if author contains collaborator.authorname %}
+                    {% if author != authors[nauthors] %}
+                      <a href="{{ collaborator.url }}"><u>{{ author }}</u></a>,
+                    {% else %}
+                      <a href="{{ collaborator.url }}"><u>{{ author }}</u></a>
+                    {% endif %}
+                    {% assign found = true %}
+                  {% endif %}
+                {% endfor %}
+
                 {% if found != true %}
                   {% if author != authors[nauthors] %}
                     {{ author }},
