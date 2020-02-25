@@ -1,20 +1,20 @@
 ---
-title: "Musa Mhlanga"
-authorname: "Mhlanga"
+title: "Mark Marsh"
+authorname: "Marsh"
 collection: collaborations
 header:
   teaser: MM.jpg
 tags: collaborator
-date: 2008-01-01
-tagline: "Gene Expression & Biophysics Lab, University of Cape Town, South Africa"
+date: 2013-09-01
+tagline: "Cellular Mechanisms of Virus Entry and Assembly Lab, University College London, UK"
 subject: "Study of fundamental biology through advanced imaging"
-email: 'musa@mhlangalab.org'
-googlescholar: https://scholar.google.com/citations?user=vZQ6VRQAAAAJ&hl=en
-uri: http://mhlangalab.org/
-twitter: mhlangalab
+email: 'm.marsh@ucl.ac.uk'
+orcid: https://orcid.org/0000-0002-0213-3259
+uri: https://www.ucl.ac.uk/lmcb/users/mark-marsh
+twitter: MarkCPMarsh
+theme: "host-pathogen"
 ---
 <p align= "justify">
-Note: Musa was the PhD supervisor of Ricardo Henriques.
 
 {% include author-research-themes.html %}
 {% include collaborator-team-members.html %}
