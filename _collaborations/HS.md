@@ -6,7 +6,7 @@ header:
   teaser: HS.jpg
 tags: collaborator
 date: 2013-10-01
-tagline: "Human immunobiology and Pathogenesis Lab, CEDOC, Nova Medical School"
+tagline: "Human immunobiology and Pathogenesis Lab, CEDOC, Nova Medical School, Portugal"
 subject: "Super-resolution imaging of cell signaling and viral host-pathogen interactions"
 email: 'helena.soares@nms.unl.pt'
 googlescholar: https://scholar.google.com/citations?user=16QNouwAAAAJ&hl=en

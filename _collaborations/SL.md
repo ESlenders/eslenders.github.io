@@ -6,7 +6,7 @@ header:
   teaser: SL.jpg
 tags: collaborator
 date: 2019-12-01
-tagline: "TheLeeLab, University of Cambridge"
+tagline: "TheLeeLab, University of Cambridge, UK"
 subject: "Co-development of super-resolution microscopy approaches"
 email: 'sl591@cam.ac.uk'
 googlescholar: https://scholar.google.co.uk/citations?user=7QbSKnMAAAAJ&hl=en

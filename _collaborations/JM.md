@@ -6,7 +6,7 @@ header:
   teaser: JM.jpg
 tags: collaborator
 date: 2016-07-01
-tagline: "Viral Cell Biology Lab, University of Birmingham"
+tagline: "Viral Cell Biology Lab, University of Birmingham, UK"
 subject: "Super-resolution imaging of host-pathogen interactions"
 email: 'jason.mercer@ucl.ac.uk'
 googlescholar: https://scholar.google.co.uk/citations?user=mDc_tG4AAAAJ&hl=en

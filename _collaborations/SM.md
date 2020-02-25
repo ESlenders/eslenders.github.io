@@ -6,7 +6,7 @@ header:
   teaser: SM.jpg
 tags: collaborator
 date: 2016-07-01
-tagline: "Cellular Microbiology Lab, London School of Hygiene and Tropical Medicine"
+tagline: "Cellular Microbiology Lab, London School of Hygiene and Tropical Medicine, UK"
 subject: "Study of host-pathogen interactions through advanced imaging"
 email: 'Serge.Mostowy@lshtm.ac.uk'
 googlescholar: https://scholar.google.com/citations?user=jCjlmWkAAAAJ&hl=en
