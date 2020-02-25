@@ -1,6 +1,6 @@
 ---
 title: "Ed Cohen"
-authorname: "Cohen"
+authorname: "Edward Cohen"
 collection: collaborations
 header:
   teaser: EC.jpg
