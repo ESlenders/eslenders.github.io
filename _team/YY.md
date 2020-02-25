@@ -11,6 +11,7 @@ date: 2017-09-05
 email: "yue.yuan.17@ucl.ac.uk"
 supervisors: "Prof. Ricardo Henriques, Prof. Mark Marsh, Prof. Dylan Owen, Dr. Romain Laine"
 theme: "host-pathogen"
+collaborators: "Joe Grove"
 ---
 
 <p align= "justify">

@@ -14,7 +14,7 @@ twitter: 'caron_g'
 supervisors: 'Prof. Ricardo Henriques and Prof. Mark Marsh'
 googlescholar: https://scholar.google.com/citations?user=FNze27gAAAAJ&hl=en
 thesis: https://discovery.ucl.ac.uk/id/eprint/10056281/
-
+collaborators: "Joe Grove"
 ---
 
 {% include thesis-reference.html %}
