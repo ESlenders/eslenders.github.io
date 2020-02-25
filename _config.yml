@@ -76,7 +76,7 @@ social:
 # Site Author
 author:
   name             : "Giuseppe Vicidomini"
-  avatar           : "/images/GV.png"
+  avatar           : "https://VicidominiLab.github.io/images/GV.png"
   bio              : "Senior Reseracher Tenured - Principal Investigator"
   location         : "Genoa, IT"
   employer         :
