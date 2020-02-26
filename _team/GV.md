@@ -1,12 +1,12 @@
 ---
-title: "Ricardo Henriques"
-authorname: "Ricardo Henriques"
+title: "Giuseppe Vicidomini"
+authorname: "Giuseppe Vicidomini"
 collection: team
 header:
-  teaser: RH2.jpg
+teaser: RH2.jpg
 tags: PI
-tagline: Professor
-date: 2013-09-01
+tagline: Senior Researcher
+date: 2016-04-16
 email: 'r.henriques@ucl.ac.uk'
 cv: "https://henriqueslab.github.io/files/Ricardo_Henriques_CV.pdf"
 ---
@@ -14,4 +14,4 @@ cv: "https://henriqueslab.github.io/files/Ricardo_Henriques_CV.pdf"
 
 <p align= "justify">
 
-By training, I am a Particle Physicist that fell in love with Biological Physics shortly after graduating. I did my PhD in both the <a href="http://mhlangalab.org/">Musa Mhlanga</a> and <a href="https://research.pasteur.fr/en/team/imaging-and-modeling/">Christophe Zimmer</a> laboratories, carrying out research between <a href="https://imm.medicina.ulisboa.pt/">IMM</a> (Portugal), <a href="https://www.pasteur.fr/en">Institut Pasteur</a> (France), <a href="https://www.csir.co.za/">CSIR</a> (South Africa) and <a href="https://andor.oxinst.com/">Andor Technology</a> (UK and USA). During this time, I entered the field of Super-Resolution Microscopy, developing technologies that enable imaging of cellular and viral structures at unprecedented resolution. During my PhD and postdoc, I applied the methods I developed to study Cell Signalling, T-cell Immunology and Viral Infection. In 2013 I established my first research group at UCL, with a dual emphasis on Developing new Imaging Technologies and Cell Biology research. In 2017 I was further invited to extend my group into the Francis Crick Institute, where I established a second small laboratory. In 2019 I was promoted to full Professor at UCL. My technological developments are widely disseminated to the Cell Biology and Biomedical research community. My algorithms QuickPALM, NanoJ, SRRF and SQUIRREL are among the most used and cited analytical methods in the Super-Resolution Microscopy field. My core philosophy has been to make my research reproducible, transparent and open-source.
+Giuseppe Vicidomini studied computer science at the Department of Computer and Information Science, University of Genoa (DISI, Genoa, Italy) and received his Diploma in 2003. From 2003 to 2007 he worked at the Laboratory of Advance Microscopy and Spectroscopy (LAMBS, University of Genoa, Genoa, Italy); where he received his Ph.D (advised by Prof. Alberto Diaspro) about image processing and analysis for fluorescence microscopy. From 2008 to 2011 he worked as a post-doctoral fellow at the Department of NonoBiophotonics, Max Planck Institute for Biophysical Chemistry (MPI, Goettingen, Germany); where he developed a new approach to further enhance the resolution ability of stimulated emission deletion (STED) microscopy. Since May 2011 he works in the Department of NanoPhysics, Italian Institute of Technology (IIT, Genoa, Italy), where in September 2013 he obtained a Researcher position and in May 2016 he became principal investigator of the Molecular Microscopy and Spectroscopy research line. His research interests are primarily concentrated on theoretical design, development and validation of novel optical and analytical tools that allow the modern biologists to peer inside living biological systems with unprecedented temporal/spatial abilities and massive information content.
