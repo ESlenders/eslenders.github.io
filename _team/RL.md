@@ -3,7 +3,7 @@ title: "Sami Valteri Koho"
 authorname: "Vicidomini"
 collection: team
 header:
-  teaser: bio_photo.jpg
+  teaser: bio-photo.jpg
 tags: post-doc
 tagline: MSCA-IF Research Fellow
 subject: "Adaptive Optics for Super-Resolution Microscopy"
