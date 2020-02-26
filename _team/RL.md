@@ -16,10 +16,10 @@ collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe 
 ---
 
 <h2>ShortBio</h2>
-I am interested in developing and applying advanced microscopy techniques to decipher functional and structural organisation of life at multiple scales. For this, I develop analytical and optical tools. You can find me on Twitter (@LaineBioImaging), in the optics lab tinkering with microscopes or on my computer developing image analyses. </p>
+Text
 
-<h2>Project Description</h2>
-French but I have been living in the UK for long enough to have forgotten how real buttery pastries taste like. I did my PhD at Imperial College in biophotonics (throwing lasers and microscopes at cells and molecules !), then moved to Cambridge for PostDoc to develop super-resolution microscopy (throwing more lasers and more microscopes at cells and molecules !). I now joined Ricardo’s lab and I want to exploit my microscopy skills to study more complex biological systems with my microscopy skills (throwing some cells at my microscope!).</p>
+<h2>Projects Description</h2>
+Text
 
 <p> <b>Reason(s) that made me get into science?</b>
 
