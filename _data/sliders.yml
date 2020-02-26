@@ -22,7 +22,6 @@
       alt: Confocal Versus Image Scanning Microscopy
   settings:
     height:  "'auto'"
-    maxHeight: 600
     interval: 5000
     transitionDuration: 3000
     effect: "'slide'"
