@@ -21,7 +21,7 @@
     - src: /images/ISM_Comparison.jpg
       alt: Confocal Versus Image Scanning Microscopy
   settings:
-    height:  "'auto'"
+    height:  "24:10'"
     interval: 5000
     transitionDuration: 3000
     maxHeight: 300
