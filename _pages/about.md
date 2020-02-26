@@ -11,6 +11,7 @@ image_sliders:
 ---
 
 {% include slider.html selector="home" %}
+<br/>
 
 ## Our Goal
 
