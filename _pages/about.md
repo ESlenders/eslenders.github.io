@@ -21,5 +21,6 @@ The core research of our group is the design, development and validation of nove
 This goal can be achieved only working across many disciplines, from physics to engineering, from computer science to biology. Our projects want to synergicaly integrate novel contrast imaging mechanisms, labeling probes, optical architectures and computational approaches that can be readily adopted by researchers all over the world.
 
 <h2>The Laboratory</h2>
+<body align="justify">
 We're based at the Center for Human Technology at the [Italian Institute of Technology](https://iit.it).
 
