@@ -24,7 +24,6 @@
     height:  "24:10'"
     interval: 5000
     transitionDuration: 3000
-    maxHeight: 300
     effect: "'slide'"
 
 
