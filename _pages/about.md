@@ -13,7 +13,7 @@ image_sliders:
 {::options parse_block_html="true" /}
 
 <div style="text-align: center">
-# <img src='/images/SPAD_Array_BW.jpg' style='width: 100%'>
+# <img src='/images/SPAD_Array_BW.jpg' style='width: 90%'>
 </div>
 
 ## Our Goal
