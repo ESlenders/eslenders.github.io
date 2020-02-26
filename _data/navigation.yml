@@ -6,8 +6,8 @@ main:
   # - title: "Outreach"
   #   url: /outreach/
 
-  # - title: "Team"
-  #   url: /team/
+  - title: "Team"
+    url: /team/
 
   # - title: "Projects"
   #   url: /projects/
@@ -36,8 +36,8 @@ main:
   # - title: "CV"
   #   url: https://henriqueslab.github.io/files/Ricardo_Henriques_CV.pdf
 
-  #  - title: "Teaching"
-  #    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
 
   - title: "Lab@IIT"
     url: https://www.iit.it/research/lines/molecular-microscopy-and-spectroscopy
