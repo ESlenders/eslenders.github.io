@@ -23,4 +23,4 @@ Text
 
 {% include author-research-themes.html %}
 {% include team-member-collaborators.html %}
-{% include publication-list.html %}
+<!---{% include publication-list.html %}--->
