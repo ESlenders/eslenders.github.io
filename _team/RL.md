@@ -33,6 +33,6 @@ Head of my own lab, working on fast 3D microscopy to understand viral replicatio
 
 Capoeira and cooking ! (a well-balanced system of input and output of calories). </p>
 
-<!--- {% include author-research-themes.html %}
+{% include author-research-themes.html %}
 {% include team-member-collaborators.html %}
-{% include publication-list.html %}--->
+{% include publication-list.html %}
