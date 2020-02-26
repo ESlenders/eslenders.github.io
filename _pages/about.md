@@ -12,7 +12,7 @@ image_sliders:
 
 {% include slider.html selector="home" %}
 
-
+{::options parse_block_html="true" /}
 <h2>Our Goal</h2>
 <body align="justify">
 Because of their non-invasive effect on living systems, light microscopy and spectroscopy have been the workhorses for studies of structures and functions at the cellular, sub-cellular and molecular levels for almost a century.
