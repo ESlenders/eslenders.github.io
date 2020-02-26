@@ -19,7 +19,7 @@ author_profile: true
 </div>
 
 <hr-bold>
-<h2>Post-doctoral researchers</h2>
+<h2>Post-Doctoral Researchers</h2>
 <hr><br>
 <div class="grid">
 <div class="wrapper">
@@ -32,7 +32,7 @@ author_profile: true
   </div>
 
 <hr-bold>
-<h2>PhD students</h2>
+<h2>PhD Students</h2>
 <hr><br>
 <div class="grid">
 <div class="wrapper">
@@ -45,7 +45,7 @@ author_profile: true
 </div>
 
 <hr-bold>
-<h2>Internship students</h2>
+<h2>Internship Students</h2>
 <hr><br>
 <div class="grid">
 <div class="wrapper">
