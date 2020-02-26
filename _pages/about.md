@@ -16,6 +16,8 @@ image_sliders:
 # <img src='/images/SPAD_Array_BW_long.jpg' style='width: 100%'>
 </div>
 
+{% include slider.html selector="home" %}
+
 ## Our Goal
 
 <body align="justify">
