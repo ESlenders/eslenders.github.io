@@ -1,21 +1,21 @@
 ---
-title: "Romain F. Laine"
-authorname: "Laine"
+title: "Sami Valteri Koho"
+authorname: "Vicidomini"
 collection: team
 header:
-  teaser: RL.jpg
+  teaser: bio_photo.jpg
 tags: post-doc
-tagline: MRC Research Fellow
-subject: "Study of viral infection and development of optical super-resolution microscopy"
-date: 2017-12-01
-email: 'r.laine@ucl.ac.uk'
-twitter: LaineBioImaging
-googlescholar: "https://scholar.google.co.uk/citations?hl=en&user=eNRcCNEAAAAJ"
-orcid: "https://orcid.org/0000-0002-2151-4487"
-collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"
+tagline: MSCA-IF Research Fellow
+subject: "Adaptive Optics for Super-Resolution Microscopy"
+date: 2018-01-01
+email: 'sami.koho@iit.it'
+twitter: KohoSami
+<!--- googlescholar: "https://scholar.google.co.uk/citations?hl=en&user=eNRcCNEAAAAJ" --->
+<!--- orcid: "https://orcid.org/0000-0002-2151-4487" --->
+<!---collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"--->
 ---
 
-<p> <b>Overview:</b>
+<h2>ShortBio</h2>
 I am interested in developing and applying advanced microscopy techniques to decipher functional and structural organisation of life at multiple scales. For this, I develop analytical and optical tools. You can find me on Twitter (@LaineBioImaging), in the optics lab tinkering with microscopes or on my computer developing image analyses. </p>
 
 <p> <b>Background and how I ended up coming to the LMCB? </b>
@@ -33,6 +33,6 @@ Head of my own lab, working on fast 3D microscopy to understand viral replicatio
 
 Capoeira and cooking ! (a well-balanced system of input and output of calories). </p>
 
-{% include author-research-themes.html %}
+<!--- {% include author-research-themes.html %}
 {% include team-member-collaborators.html %}
-{% include publication-list.html %}
+{% include publication-list.html %}--->
