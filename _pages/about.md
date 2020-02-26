@@ -22,5 +22,4 @@ This goal can be achieved only working across many disciplines, from physics to 
 
 <h2>The Laboratory</h2>
 We're based at the Center for Human Technology at the [Italian Institute of Technology](https://iit.it).
-<a href="{{site.github.url}}/projects"><span style="color:gray">Projects</span></a>
 
