@@ -3,7 +3,7 @@ title: "Giuseppe Vicidomini"
 authorname: "Giuseppe Vicidomini"
 collection: team
 header:
-teaser: GV.png
+  teaser: GV.png
 tags: PI
 tagline: Senior Researcher
 date: 2016-04-16
