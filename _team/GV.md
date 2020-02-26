@@ -3,11 +3,11 @@ title: "Giuseppe Vicidomini"
 authorname: "Giuseppe Vicidomini"
 collection: team
 header:
-teaser: RH2.jpg
+teaser: GV.png
 tags: PI
 tagline: Senior Researcher
 date: 2016-04-16
-email: 'r.henriques@ucl.ac.uk'
+email: 'giuseppe.vicidomini@iit.it'
 cv: "https://henriqueslab.github.io/files/Ricardo_Henriques_CV.pdf"
 ---
 {::options parse_block_html="true" /}
