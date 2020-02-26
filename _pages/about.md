@@ -10,9 +10,8 @@ image_sliders:
   - home
 ---
 
-
-
 {% include slider.html selector="home" %}
+<br>
 
 ## Our Goal
 
