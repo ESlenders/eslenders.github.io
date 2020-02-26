@@ -10,9 +10,7 @@ image_sliders:
   - home
 ---
 
-<div style="text-align: center">
-# <img src='/images/SPAD_Array_BW_long.jpg' style='width: 100%'>
-</div>
+
 
 {% include slider.html selector="home" %}
 
