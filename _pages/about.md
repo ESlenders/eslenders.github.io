@@ -13,7 +13,7 @@ image_sliders:
 {::options parse_block_html="true" /}
 
 <div style="text-align: center">
-# <img src='/images/HenriquesLabLogo.jpg' style='width: 75%'>
+# <img src='/images/SPAD_Array_BW.jpg' style='width: 75%'>
 </div>
 
 ## Our Goal
