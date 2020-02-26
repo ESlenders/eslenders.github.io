@@ -8,7 +8,7 @@ tags: PI
 tagline: Senior Researcher
 date: 2016-04-16
 email: 'giuseppe.vicidomini@iit.it'
-cv: "https://henriqueslab.github.io/files/Ricardo_Henriques_CV.pdf"
+cv: "https://VicidominiLab.github.io/files/VicidominiG_CV_2020_01_10.pdf"
 ---
 {::options parse_block_html="true" /}
 
