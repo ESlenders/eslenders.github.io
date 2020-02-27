@@ -22,5 +22,5 @@ This goal can be achieved only working across many disciplines, from physics to 
 
 <h2>The Laboratory</h2>
 <body align="justify">
-We're based at the Center for Human Technology at the [Italian Institute of Technology](https://iit.it).
+We're based at the Center for Human Technology at the [Istituto Italiano di Tecnologia](https://iit.it).
 
