@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: bio-photo.jpg
 tags: post-doc
-tagline: San Paolo PostDoc Fellow
+tagline: Fondazione San Paolo PostDoc Fellow
 subject: "Fluorescence Correlation Spectroscopy"
 date: 2019-01-01
 email: 'eli.slenders@iit.it'
