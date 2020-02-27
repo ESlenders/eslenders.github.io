@@ -1,6 +1,6 @@
 ---
 title: "Marco Castello"
-authorname: "Vicidomini"
+authorname: "Castello Marco"
 collection: team
 header:
   teaser: bio-photo.jpg
@@ -20,6 +20,6 @@ Text
 <h2>Projects Description</h2>
 Text
 
-{% include author-research-themes.html %}
-{% include team-member-collaborators.html %}
+<!---{% include author-research-themes.html %}--->
+<!---{% include team-member-collaborators.html %}--->
 <!---{% include publication-list.html %}--->
