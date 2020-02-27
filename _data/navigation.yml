@@ -18,8 +18,8 @@ main:
   # - title: "Collaborations"
   #   url: /collaborations/
 
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications"
+    url: /publications/
 
   # - title: "Talks & Posters"
   #   url: /talks/
