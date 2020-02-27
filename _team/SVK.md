@@ -12,7 +12,8 @@ email: 'sami.koho@iit.it'
 twitter: KohoSami
 googlescholar: "https://scholar.google.it/citations?hl=it&user=rhFhFvcAAAAJ#"
 # orcid: "https://orcid.org/0000-0002-2151-4487"
-collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"
+# collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"
+# theme: "microbiology, new methods"
 ---
 
 <h2>ShortBio</h2>
