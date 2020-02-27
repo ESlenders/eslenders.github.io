@@ -11,6 +11,7 @@ date: 2017-01-01
 email: 'simonluca.piazza@iit.it'
 twitter: iamsimonluca
 googlescholar: "https://scholar.google.it/citations?user=qNeel8wAAAAJ&hl=it"
+# orcid: "https://orcid.org/0000-0001-9886-2263"
 # collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"
 ---
 
