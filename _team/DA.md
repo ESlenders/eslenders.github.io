@@ -1,10 +1,10 @@
 ---
-title: "David Albrecht"
-authorname: "Albrecht"
+title: "Alessandro Rossetta"
+authorname: "Vicidomini"
 collection: team
 header:
   teaser: DA.jpg
-tags: alumni
+tags: Phd
 tagline: Postdoc
 subject: "Nanoscale polarization of the entry fusion complex of vaccinia virus drives efficient fusion."
 date-start: 2016-04-01
@@ -21,3 +21,4 @@ Note: David jointly did research between the laboratory of Dr. Jason Mercer and 
 {% include author-research-themes.html %}
 {% include team-member-collaborators.html %}
 {% include publication-list.html %}
+
