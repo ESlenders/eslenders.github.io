@@ -24,7 +24,7 @@
       alt: Grants and Fundings
   settings:
     height:  "'auto'"
-    interval: 60000
+    interval: 70000
     transitionDuration: 3000
     effect: "'slide'"
 
