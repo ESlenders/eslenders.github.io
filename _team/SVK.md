@@ -6,7 +6,7 @@ header:
   teaser: bio-photo.jpg
 tags: post-doc
 tagline: MSCA-IF Research Fellow
-subject: "Adaptive Optics for Super-Resolution Microscopy"
+subject: "Adaptive Optics for Super-Resolution Microscopy and Image Reconstruction"
 date: 2018-01-01
 email: 'sami.koho@iit.it'
 twitter: KohoSami
