@@ -20,9 +20,11 @@
       alt: SPAD Array Detector on Custom Microscope
     - src: /images/ISM_CLSM_Comparison.jpg
       alt: Confocal Versus Image Scanning Microscopy
+    - src: /images/support.jpg
+      alt: Founding
   settings:
     height:  "'auto'"
-    interval: 5000
+    interval: 10000
     transitionDuration: 3000
     effect: "'slide'"
 
