@@ -1,17 +1,29 @@
 ---
-title: "Neza Vadnjal"
+title: "Giorgio Tortarolo"
+authorname: "Vicidomini"
 collection: team
 header:
-  teaser: NV.jpg
+  teaser: bio-photo.jpg
 tags: phd
-tagline: MRC-LMCB
-subject: "Investigate the molecules controlling actin network architecture and their influence on cortex tension generation"
-date: 2017-09-01
-email: 'neza.vadnjal.16@ucl.ac.uk'
-twitter: 'NezaVadnjal'
-supervisors: "Prof. Ewa Paluch (Univ. Cambridge), Prof. Ricardo Henriques (UCL)"
+tagline: Ph.D. University of Genoa
+subject: "Super-Resolution Microscopy, Control System, Single-Molecule Tracking"
+date: 2016-02-01
+email: 'giorgio.tortarolo@iit.it'
+twitter: 'GTortarolo'
+googlescholar: "https://scholar.google.com/citations?user=oZX62_AAAAAJ&hl=en"
+supervisors: "Dr. Giuseppe Vicidomini (IIT)"
+# orcid: "https://orcid.org/0000-0002-1182-2478"
+# collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"
+# theme: "microbiology, new methods"
 ---
-<p align= "justify">
-The cellular actin cortex offers mechanical support to animal cells. Cell shape changes are consequences of changes in the mechanical properties of the cortex, particularly in cortical tension. The aim of my project is to investigate the molecules controlling actin network architecture and their influence on cortex tension generation.
 
-{% include team-member-collaborators.html %}
+<h2>ShortBio</h2>
+Text
+
+<h2>Projects Description</h2>
+Text
+
+<!---{% include author-research-themes.html %}--->
+<!---{% include team-member-collaborators.html %}--->
+<!---{% include publication-list.html %}--->
+
