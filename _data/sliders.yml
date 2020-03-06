@@ -21,7 +21,7 @@
     - src: /images/ISM_CLSM_Comparison.jpg
       alt: Confocal Versus Image Scanning Microscopy
     - src: /images/support.png
-      alt: Founding
+      alt: Grants and Fundings
   settings:
     height:  "'auto'"
     interval: 70000
