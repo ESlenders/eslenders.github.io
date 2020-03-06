@@ -24,7 +24,7 @@
       alt: Founding
   settings:
     height:  "'auto'"
-    interval: 90000
+    interval: 70000
     transitionDuration: 3000
     effect: "'slide'"
 
