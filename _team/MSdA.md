@@ -17,9 +17,6 @@ Note: Marco Scotto jointly does research between the laboratory of Prof. Alberto
 <h2>ShortBio</h2>
 Text
 
-<h2>Projects Description</h2>
-Text
-
 <!---{% include author-research-themes.html %}--->
 <!---{% include team-member-collaborators.html %}--->
 <!---{% include publication-list.html %}--->
