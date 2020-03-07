@@ -1,6 +1,6 @@
 ---
 title: "Marco Castello"
-authorname: "Castello Marco"
+authorname: "Marco Castello"
 collection: team
 header:
   teaser: bio-photo.jpg
