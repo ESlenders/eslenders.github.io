@@ -15,6 +15,9 @@ googlescholar: "https://scholar.google.it/citations?user=qNeel8wAAAAJ&hl=it"
 # collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"
 ---
 
+<p align= "justify">
+Note: Dr. Simonluca Piazza is primarly involved in the realization of the Genoa Instruments Startup. 
+  
 <h2>ShortBio</h2>
 Text
 
