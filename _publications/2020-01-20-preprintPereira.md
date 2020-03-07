@@ -1,7 +1,7 @@
 ---
 title: "Synergic Combination of Stimulated Emission Depletion Microscopy with Image Scanning Microscopy to Reduce Light Dosage"
 collection: publications
-date: 2020-01-20
+date: 2020-08-21
 venue: 'bioRxiv'
 authors: 'Pedro M Pereira, Nils Gustafsson, Mark Marsh, Musa M Mhlanga, Ricardo Henriques'
 paperurl: https://www.biorxiv.org/content/10.1101/2020.01.20.912311v2.abstract
