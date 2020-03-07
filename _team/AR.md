@@ -1,6 +1,6 @@
 ---
 title: "Alessandro Rossetta"
-authorname: "Vicidomini"
+authorname: "Alessandro Rossetta"
 collection: team
 header:
   teaser: bio-photo.jpg
