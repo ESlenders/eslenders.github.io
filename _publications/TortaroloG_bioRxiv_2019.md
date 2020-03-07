@@ -6,7 +6,7 @@ venue: 'bioRxiv'
 authors: 'Giorgio Tortarolo, Marco Castello, Sami V. Koho, Giuseppe Vicidomini'
 paperurl: https://www.biorxiv.org/content/10.1101/741389v1
 tagline: '- Preprint, Corresponding author'
-doi: doi.org/10.1101/741389
+doi: 10.1101/741389
 type: 'LSM with SPAD array, time-resolved STED'
 ---
 
