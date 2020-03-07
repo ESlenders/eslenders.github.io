@@ -15,6 +15,9 @@ googlescholar: "https://scholar.google.it/citations?user=2-kKu18AAAAJ&hl=it#"
 # collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"
 ---
 
+<p align= "justify">
+Note: Dr. Marco Castello is primarly involved in the realization of the Genoa Instruments Startup. 
+
 <h2>ShortBio</h2>
 Text
 
