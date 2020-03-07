@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: bio-photo.jpg
 tags: assistant
-tagline: Assistants 
+tagline: Administrative Assistant 
 email: 'manuela.salvatori@iit.it'
 ---
 
