@@ -1,4 +1,5 @@
 ---
+permalink: /
 title: "Simonluca Piazza"
 authorname: "Simonluca Piazza"
 collection: team
