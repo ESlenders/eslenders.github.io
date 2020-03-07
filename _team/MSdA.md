@@ -1,6 +1,6 @@
 ---
 title: "Marco Scotto d'Abbusco"
-authorname: "Vicidomini"
+authorname: "Marco Scotto d'Abbusco"
 collection: team
 header:
   teaser: bio-photo.jpg
