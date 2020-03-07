@@ -7,7 +7,7 @@ header:
 tags: phd
 tagline: Ph.D. University of Genoa (with Nanoscopy and NIC@IIT)
 subject: "FPGA Design"
-date-start: 2018-11-01
+date: 2018-11-01
 email: 'alessandro.rossetta@iit.it'
 supervisors: "Dr. Giuseppe Vicidomini (IIT) and Prof. Alberto Diaspro (IIT)"
 ---
