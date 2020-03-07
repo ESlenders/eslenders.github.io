@@ -3,7 +3,7 @@ title: "Alessandro Rossetta"
 authorname: "Vicidomini"
 collection: team
 header:
-  teaser: DA.jpg
+  teaser: bio-photo.jpg
 tags: phd
 tagline: Ph.D. University of Genoa (with Nanoscopy and NIC@IIT)
 subject: "FPGA Design"
