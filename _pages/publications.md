@@ -26,3 +26,4 @@ author_profile: true
   {% if forloop.last %}</ul>{% endif %}
 
 {% endfor %}
+
