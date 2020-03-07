@@ -12,6 +12,7 @@ image_sliders:
 
 {% include slider.html selector="home" %}
 
+{::options parse_block_html="true" /}
 
 <h2>Our Goal</h2>
 <body align="justify">
