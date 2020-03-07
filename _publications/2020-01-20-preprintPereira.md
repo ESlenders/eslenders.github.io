@@ -1,5 +1,5 @@
 ---
-title: "Super-Beacons: open-source probes with spontaneous tuneable blinking compatible with live-cell super-resolution microscopy"
+title: "Synergic Combination of Stimulated Emission Depletion Microscopy with Image Scanning Microscopy to Reduce Light Dosage"
 collection: publications
 date: 2020-01-20
 venue: 'bioRxiv'
