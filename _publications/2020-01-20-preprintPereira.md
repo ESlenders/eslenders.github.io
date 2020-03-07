@@ -3,7 +3,7 @@ title: "Synergic Combination of Stimulated Emission Depletion Microscopy with Im
 collection: publications
 date: 2020-08-21
 venue: 'bioRxiv'
-authors: 'Giorgio Tortarolo, Marco Castello, Sami Koho, Giuseppe Vicidomini'
+authors: 'Giorgio Tortarolo, Marco Castello, Sami Koho, Giuseppe Vicidomini, Ricardo Henriques'
 paperurl: https://www.biorxiv.org/content/10.1101/741389v1
 tagline: '- Preprint, Corresponding author'
 doi: doi.org/10.1101/741389
