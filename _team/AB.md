@@ -3,7 +3,7 @@ title: "Andrea Bucci"
 authorname: "Vicidomini"
 collection: team
 header:
-  teaser: bio-photo.jpg
+  teaser: AndreaBucci.jpg
 tags: phd
 tagline: Ph.D. University of Genoa
 subject: "Single-Molecule Tracking"
