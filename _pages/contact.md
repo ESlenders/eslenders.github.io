@@ -13,7 +13,6 @@ Great Campus, Via Enrico Melen, 83 Building B <br>
 16152, Genoa, Italy <br>
 &#128222; +39 010 2897607 <br>
 
-
 <h2> Administrative Assistant </h2>
 Manuela Salvatori <br>
 &#128222; +39 010 2897609 <br>
