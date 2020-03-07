@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: bio-photo.jpg
 tags: alumni
-tagline: phd
+tagline: Ph.D. University of Genoa 
 subject: "Time-Resolved STED Microscopy."
 date-start: 2012-01-01
 date-end: 2015-03-31
