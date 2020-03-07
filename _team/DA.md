@@ -4,21 +4,23 @@ authorname: "Vicidomini"
 collection: team
 header:
   teaser: DA.jpg
-tags: Phd
-tagline: Postdoc
-subject: "Nanoscale polarization of the entry fusion complex of vaccinia virus drives efficient fusion."
-date-start: 2016-04-01
-date-end: 2019-07-01
-email: 'd.albrecht@alumni.ucl.ac.uk'
-twitter: 'D4V1D_4'
-orcid: https://orcid.org/0000-0001-9455-1134
-googlescholar: https://scholar.google.com/citations?user=7QMAozEAAAAJ&hl=en
+tags: phd
+tagline: Ph.D. University of Genoa (with Nanoscopy and NIC@IIT)
+subject: "FPGA Design"
+date-start: 2018-11-01
+email: 'alessandro.rossetta@iit.it'
+supervisors: "Dr. Giuseppe Vicidomini (IIT) and Prof. Alberto Diaspro (IIT)"
 ---
 
 <p align= "justify">
-Note: David jointly did research between the laboratory of Dr. Jason Mercer and my own.
+Note: David jointly did research between the laboratory of Prof. Alberto Diaspro (Nanoscopy and NIC@IIT, IIT) and my own.
 
-{% include author-research-themes.html %}
-{% include team-member-collaborators.html %}
-{% include publication-list.html %}
+<h2>ShortBio</h2>
+Text
 
+<h2>Projects Description</h2>
+Text
+
+<!---{% include author-research-themes.html %}--->
+<!---{% include team-member-collaborators.html %}--->
+<!---{% include publication-list.html %}--->
