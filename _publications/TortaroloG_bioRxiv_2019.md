@@ -1,7 +1,7 @@
 ---
 title: "Synergic Combination of Stimulated Emission Depletion Microscopy with Image Scanning Microscopy to Reduce Light Dosage"
 collection: publications
-date: 2020-08-21
+date: 2019-08-21
 venue: 'bioRxiv'
 authors: 'Giorgio Tortarolo, Marco Castello, Sami V. Koho, Giuseppe Vicidomini'
 paperurl: https://www.biorxiv.org/content/10.1101/741389v1
