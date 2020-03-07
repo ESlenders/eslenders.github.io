@@ -1,6 +1,6 @@
 ---
 title: "Sami Valteri Koho"
-authorname: "Vicidomini"
+authorname: "Sami V. Koho"
 collection: team
 header:
   teaser: bio-photo.jpg
