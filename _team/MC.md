@@ -14,6 +14,7 @@ googlescholar: "https://scholar.google.it/citations?user=2-kKu18AAAAJ&hl=it#"
 # uri: https://www.sianculley.com/
 # collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"
 ---
+{::options parse_block_html="true" /}
 
 <p align= "justify">
 Note: Dr. Marco Castello is primarly involved in the realization of the [Genoa Instruments](https://www.genoainstruments.com) Startup. 
