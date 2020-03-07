@@ -1,6 +1,6 @@
 ---
 title: "Manuela Salvatori"
-authorname: "Vicidomini"
+authorname: "Manuela Salvatori"
 collection: team
 header:
   teaser: bio-photo.jpg
