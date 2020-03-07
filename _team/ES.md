@@ -3,7 +3,7 @@ title: "Eli Slenders"
 authorname: "Eli Slenders"
 collection: team
 header:
-  teaser: bio-photo.jpg
+  teaser: EliSlenders.jpg
 tags: post-doc
 tagline: Fondazione San Paolo PostDoc Fellow
 subject: "Fluorescence Correlation Spectroscopy"
