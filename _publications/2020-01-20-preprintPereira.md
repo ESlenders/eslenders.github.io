@@ -4,10 +4,10 @@ collection: publications
 date: 2020-08-21
 venue: 'bioRxiv'
 authors: 'Giorgio Tortarolo, Marco Castello, Sami Koho, Giuseppe Vicidomini, Ricardo Henriques'
-paperurl: https://www.biorxiv.org/content/10.1101/2020.01.20.912311v2.abstract
+paperurl: https://www.biorxiv.org/content/10.1101/741389v1
 tagline: '- Preprint, Corresponding author'
-doi: 10.1101/2020.01.20.912311
-type: 'probes, methods'
+doi: doi.org/10.1101/741389
+type: 'LSM with SPAD array, time-resolved STED'
 ---
 
 <h2> Abstract </h2>
