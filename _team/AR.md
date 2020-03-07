@@ -13,7 +13,7 @@ supervisors: "Dr. Giuseppe Vicidomini (IIT) and Prof. Alberto Diaspro (IIT)"
 ---
 
 <p align= "justify">
-Note: David jointly did research between the laboratory of Prof. Alberto Diaspro (Nanoscopy and NIC@IIT, IIT) and my own.
+Note: David jointly does research between the laboratory of Prof. Alberto Diaspro (Nanoscopy and NIC@IIT, IIT) and my own.
 
 <h2>ShortBio</h2>
 Text
