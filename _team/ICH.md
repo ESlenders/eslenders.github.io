@@ -1,6 +1,6 @@
 ---
 title: "Ivan Coto Hernandez"
-authorname: "Vicidomini"
+authorname: "Ivan Coto Hernandez"
 collection: team
 header:
   teaser: bio-photo.jpg
