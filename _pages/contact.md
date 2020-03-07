@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-<h2> Address information </h2>
+<h2> Address Information </h2>
 Molecular Microscopy and Spectroscopy <br>
 Center for Human Technologies <br>
 Istituto Italiano di Tecnologia <br>
