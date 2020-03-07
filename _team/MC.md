@@ -22,7 +22,7 @@ Note: Dr. Marco Castello is primarly involved in the realization of the [Genoa I
 Text
 
 <h2>Projects Description</h2>
-Text
+Text 
 
 <!---{% include author-research-themes.html %}--->
 <!---{% include team-member-collaborators.html %}--->
