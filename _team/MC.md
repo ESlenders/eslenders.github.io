@@ -1,4 +1,5 @@
 ---
+permalink: /
 title: "Marco Castello"
 authorname: "Castello Marco"
 collection: team
