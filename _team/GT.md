@@ -1,6 +1,6 @@
 ---
 title: "Giorgio Tortarolo"
-authorname: "Vicidomini"
+authorname: "Giorgio Tortarolo"
 collection: team
 header:
   teaser: bio-photo.jpg
