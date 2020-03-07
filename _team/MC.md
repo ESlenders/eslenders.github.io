@@ -16,7 +16,7 @@ googlescholar: "https://scholar.google.it/citations?user=2-kKu18AAAAJ&hl=it#"
 ---
 
 <p align= "justify">
-Note: Dr. Marco Castello is primarly involved in the realization of the [Genoa Instruments](https://www.genoainstruments.com) Startup. 
+Note: Dr. Marco Castello is primarly involved in the realization of the <a href="https://www.genoainstruments.com">Genoa Instruments</a> Startup. 
 
 <h2>ShortBio</h2>
 Text
