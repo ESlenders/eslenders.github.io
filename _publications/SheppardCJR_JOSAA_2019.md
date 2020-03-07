@@ -3,7 +3,7 @@ title: "Pixel reassignment in image scanning microscopy: a re-evaluation"
 collection: publications
 date: 2019-12-20
 venue: 'J. Opt. Soc. Am. A'
-authors: 'Colin J. R. Sheppard, Marco Castello, Giorgio Tortarolo, Takahiro Deguchi, Sami Koho, Giuseppe Vicidomini, Alberto Diaspro'
+authors: 'Colin J. R. Sheppard, Marco Castello, Giorgio Tortarolo, Takahiro Deguchi, Sami V. Koho, Giuseppe Vicidomini, Alberto Diaspro'
 paperurl: https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-37-1-154
 doi: 10.1364/JOSAA.37.000154
 tagline: '- Paper'
