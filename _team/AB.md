@@ -1,6 +1,6 @@
 ---
 title: "Andrea Bucci"
-authorname: "Vicidomini"
+authorname: "Andrea Bucci"
 collection: team
 header:
   teaser: AndreaBucci.jpg
