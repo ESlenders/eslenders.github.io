@@ -61,6 +61,10 @@ layout: default
             {% if page.supervisors %}
                <br><i>Supervision: {{ page.supervisors }}</i>
             {% endif %}
+              
+            {% if page.biblio %}
+              <br><a href="{{ page.biblio }}" style="text-decoration: none"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Bibliography</a>
+            {% endif %}  
 
             {% if page.cv %}
               <br><a href="{{ page.cv }}" style="text-decoration: none"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> CV</a>
