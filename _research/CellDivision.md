@@ -1,13 +1,13 @@
 ---
-title: "Cell Division"
-type: "cell division"
+title: "Time-Resolved STED Microscopy"
+type: "TR-STED microscopy"
 collection: research
-date: 2016-08-01
+date: 2016-04-01
 author_profile: false
 sidebar:
   nav: "Tech"
 header:
-  teaser: division.jpg
+  teaser: TR_STED_microscopy.jpg
 layout: archive
 ---
 
