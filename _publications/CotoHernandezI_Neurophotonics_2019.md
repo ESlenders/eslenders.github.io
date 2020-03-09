@@ -1,7 +1,7 @@
 ---
 title: "Efficient Multiphoton STED Nanoscope Exploiting Spatio-Temporal Information"
 collection: publications
-date: 2029-11-05
+date: 2019-11-05
 venue: 'Neurophotonics'
 authors: 'Ivan Coto Hernandez, Marco Castello, Giorgio Tortarolo, Nathan Jowett, Alberto Diaspro, Luca Lanzanò, Giuseppe Vicidomini'
 paperurl: https://doi.org/10.1117/1.NPh.6.4.045004
