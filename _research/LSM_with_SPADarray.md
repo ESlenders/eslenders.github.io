@@ -1,5 +1,5 @@
 ---
-title: "Laser-scanning microscopy with SPAD array detector"
+title: "Laser-Scanning Microscopy with SPAD Array Detector"
 type: LSM with SPAD array
 collection: research
 date: 2016-04-01
