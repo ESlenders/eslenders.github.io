@@ -1,13 +1,13 @@
 ---
-title: "Software"
-type: software
+title: "Laser-scanning microscopy with SPAD array detector"
+type: LSM with SPAD array
 collection: research
-date: 2016-08-01
+date: 2016-04-01
 author_profile: false
 sidebar:
   nav: "Tech"
 header:
-  teaser: NanoJ.jpg
+  teaser: LSM_with_SPADarray.jpg
 layout: archive
 ---
 
