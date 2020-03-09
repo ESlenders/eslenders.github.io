@@ -13,4 +13,3 @@ author_profile: true
     {% endfor %}
   </div>
 </div>
-
