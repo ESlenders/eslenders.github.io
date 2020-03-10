@@ -7,7 +7,7 @@ authors: 'Colin J. R. Sheppard, Marco Castello, Giorgio Tortarolo, Takahiro Degu
 paperurl: https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-37-1-154
 doi: 10.1364/JOSAA.37.000154
 tagline: '- Paper'
-type: 'LSM with SPAD Array'
+type: 'LSM with SPAD array'
 ---
 
 <h2> Abstract </h2>
