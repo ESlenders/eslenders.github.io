@@ -7,7 +7,7 @@ authors: 'Ivan Coto Hernandez, Marco Castello, Giorgio Tortarolo, Nathan Jowett,
 paperurl: https://doi.org/10.1117/1.NPh.6.4.045004
 tagline: '- Paper, Corresponding author'
 doi: 10.1117/1.NPh.6.4.045004
-type: "time-resolved STED"
+type: "TR-STED microscopy"
 ---
 
 <h2> Abstract </h2>
