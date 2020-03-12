@@ -11,4 +11,9 @@ header:
 layout: archive
 ---
 
+<figure style="width: 80%" class="align-center">
+<img src='/images/singlephotonmicroscopy.jpg'>
+<figcaption>Mechanical stimuli are converted into chemical signals to regulate cell behavior through mature integrin focal adhesions and/or contractile units.</figcaption>
+</figure>
+
 {% include publication-list-theme.html %}
