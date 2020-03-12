@@ -13,7 +13,7 @@ layout: archive
 
 <figure style="width: 50%" class="align-center">
 <img src='/images/SinglePhotonsMicroscopy.jpg'>
-<figcaption>Cmparison between laser-scanning microscopy with typical single-element detecor and SPAD array detector.</figcaption>
+<figcaption>Comparison between laser-scanning microscopy with typical single-element detecor and SPAD array detector.</figcaption>
 </figure>
 
 Laser-scanning microscopy is one of the most common architecture in fluorescence microscopy, e.g., confocal, two-photon excitation (TPE), and stimulated emission depletion (STED) microscopy. In a nutshell: (i) the objective lens focuses the laser beam(s) to the sample and generates an effective excitation spot which is raster scanned across the sample; (ii) for each position/pixel the fluorescent image of the spot is projected into a single- element detector, which – typically – spatially and temporally integrates the fluorescent light over the detector sensitive area and during the pixel dwell-time, thus providing a single-intensity value per pixel; (iii) all pixel intensity values are registered to build up a digital image. It is clear that the spatio-temporal integration performed by the single-element detector hinders any additional information potentially encoded in the dynamic and image of the fluorescent spot.
