@@ -13,7 +13,7 @@ layout: archive
 
 <figure style="width: 60%" class="align-center">
 <img src='/images/SinglePhotonsMicroscopy.jpg'>
-<figcaption>Mechanical stimuli are converted into chemical signals to regulate cell behavior through mature integrin focal adhesions and/or contractile units.</figcaption>
+<figcaption>Cmparison between laser-scanning microscopy with typical single-element detecor and SPAD array detector.</figcaption>
 </figure>
 
 Here, the texp
