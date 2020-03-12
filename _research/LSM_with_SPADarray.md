@@ -13,7 +13,7 @@ layout: archive
 
 <figure style="width: 50%" class="align-center">
 <img src='/images/SinglePhotonsMicroscopy.jpg'>
-<figcaption>Comparison between laser-scanning microscopy with typical single-element detecor and SPAD array detector.</figcaption>
+<figcaption>Comparison between laser-scanning microscopy with typical single-element detecor and WITH SPAD array detector.</figcaption>
 </figure>
 
 <div style="text-align: justify">
