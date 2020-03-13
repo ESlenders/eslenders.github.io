@@ -3,14 +3,11 @@ title: "Improving SPLIT-STED Super-Resolution Imaging with Tunable Depletion and
 collection: publications
 date: 2020-03-05
 venue: 'J. Phys. D'
-volume:
-issue:
-pages:
 authors: 'Simone Pelicci, Giorgio Tortarolo, Guiseppe Vicidomini, Alberto Diaspro, Luca Lanzanò'
 paperurl: https://iopscience.iop.org/article/10.1088/1361-6463/ab7cf8
 tagline: '- Paper'
 doi: 10.1088/1361-6463/ab7cf8
-type:
+type: 'none'
 ---
 
 <h2> Abstract </h2>
