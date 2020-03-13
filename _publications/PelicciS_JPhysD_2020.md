@@ -7,7 +7,7 @@ authors: 'Simone Pelicci, Giorgio Tortarolo, Guiseppe Vicidomini, Alberto Diaspr
 paperurl: https://iopscience.iop.org/article/10.1088/1361-6463/ab7cf8
 tagline: '- Paper'
 doi: 10.1088/1361-6463/ab7cf8
-type: 'none'
+type: 'prova'
 ---
 
 <h2> Abstract </h2>
