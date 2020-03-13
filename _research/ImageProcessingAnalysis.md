@@ -8,7 +8,6 @@ sidebar:
   nav: "Tech"
 header:
   teaser: ImageProcessingAnalysis.jpg
-layout: archive
 ---
 
 
