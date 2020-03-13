@@ -1,15 +1,18 @@
 ---
-title: "vLUME: 3D Virtual Reality for Single-molecule Localization Microscopy"
+title: "Improving SPLIT-STED Super-Resolution Imaging with Tunable Depletion and Excitation Power"
 collection: publications
-date: 2020-01-14
-venue: 'bioRxiv'
-authors: 'Alexander Spark, Alexandre Kitching, Daniel Esteban-Ferrer, Anoushka Handa, Alexander R Carr, Lisa-Maria Needham, Aleks Ponjavic, Mafalda Da Cunha Santos, James McColl, Christophe Leterrier, Simon J Davis, Ricardo Henriques, Steven F Lee'
-paperurl: https://www.biorxiv.org/content/10.1101/2020.01.20.912733v1.abstract
-tagline: '- Preprint'
-doi: 10.1101/2020.01.20.912733
-type: 'software, methods'
+date: 2020-03-05
+venue: 'J. Phys. D'
+volume:
+issue:
+pages:
+authors: 'Simone Pelicci, Giorgio Tortarolo, Guiseppe Vicidomini, Alberto Diaspro, Luca Lanzanò'
+paperurl: https://iopscience.iop.org/article/10.1088/1361-6463/ab7cf8
+tagline: '- Paper'
+doi: 10.1088/1361-6463/ab7cf8
+type:
 ---
 
 <h2> Abstract </h2>
 <p align= "justify">
-Super-Resolution (SR) Microscopy based on 3D Single-Molecule Localization Microscopy (SMLM) is now well established and its wide-spread adoption has led to the development of more than 36 software packages, dedicated to quantitative evaluation of the spatial and temporal detection of fluorophore photoswitching. While the initial emphasis in the 3D SMLM field has clearly been on improving resolution and data quality, there is now a marked absence of 3D visualization approaches that enable the straightforward, high-fidelity exploration of this type of data. Inspired by the horological phosphorescence points that illuminate watch-faces in the dark, we present vLUME (Visualization of the Universe in a Micro Environment, pronounced 9volume9) a free-for-academic-use immersive virtual reality-based (VR) visualization software package purposefully designed to render large 3D-SMLM data sets. vLUME enables robust visualization, segmentation and quantification of millions of fluorescence puncta from any 3D SMLM technique. vLUME has an intuitive user-interface and is compatible with all commercial VR hardware (Oculus Rift/Quest and HTC Vive). vLUME accelerates the analysis of highly complex 3D point-cloud data and the rapid identification of defects that are otherwise neglected in global quality metrics.
+The SPLIT approach is a simple and efficient way to improve the spatial resolution of a super-resolved STED multi-dimensional image, i.e. a STED image in which an additional dimension encodes spatial information. Recently, we have demonstrated that the SPLIT can be applied to multidimensional STED images obtained with tunable depletion power. In this SPLIT-STED implementation, the additional dimension is represented by the depletion power, a parameter that can be easily tuned on any STED microscope. In this work, we introduce a modified implementation in which we tune also the excitation power. The tuning of the excitation power is used to modulate the number of photons collected for each STED image. We show that the modified SPLIT-STED method produces an improvement of spatial resolution for very different tuning patterns of the excitation intensity, improving the versatility of the SPLIT-STED approach. Interestingly, we find that the extent of photobleaching can be modulated by the excitation pattern, as it depends on the simultaneous impact of high STED and excitation powers. Thus, the tuning of the excitation power can improve applicability of the method to live cell imaging, potentially minimizing the photobleaching of the fluorophores and the phototoxicity on the biological samples during a SPLIT-STED acquisition. We apply the modified SPLIT-STED method to super-resolution imaging of nuclear periphery, in both fixed and live cells.
