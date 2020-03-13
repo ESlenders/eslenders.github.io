@@ -7,7 +7,7 @@ authors: 'Sami V. Koho, Giorgio Tortarolo, Marco Castello, Talahiro Deguchi, Alb
 paperurl: https://www.nature.com/articles/s41467-019-11024-z
 doi: 10.1038/s41467-019-11024-z
 tagline: '- Paper, Corresponding author'
-type: "img proc anal"
+type: "Img Proc Anal"
 ---
 <h2> Abstract </h2>
 <p align= "justify">
