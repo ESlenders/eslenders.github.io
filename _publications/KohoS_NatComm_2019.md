@@ -2,7 +2,7 @@
 title: "Fourier ring correlation simplifies image restoration in fluorescence microscopy"
 collection: publications
 date: 2019-07-15
-venue: 'Nature Communications'
+venue: 'Nat. Comm.'
 authors: 'Sami V. Koho, Giorgio Tortarolo, Marco Castello, Talahiro Deguchi, Albeto Diaspro, Giuseppe Vicidomini'
 paperurl: https://www.nature.com/articles/s41467-019-11024-z
 doi: 10.1038/s41467-019-11024-z
