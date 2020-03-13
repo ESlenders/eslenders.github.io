@@ -3,7 +3,7 @@ title: "Time-Resolved STED Microscopy"
 type: "TR-STED microscopy"
 collection: research
 date: 2016-04-01
-author_profile: true
+author_profile: false
 sidebar:
   nav: "Tech"
 header:
