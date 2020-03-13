@@ -8,7 +8,10 @@ sidebar:
   nav: "Tech"
 header:
   teaser: ImageProcessingAnalysis.jpg
+layout: archive
 ---
+
+{% include publication-list-theme.html %}
 
 
 
