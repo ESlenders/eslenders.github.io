@@ -8,7 +8,6 @@ sidebar:
   nav: "Tech"
 header:
   teaser: LSM_with_SPADarray.jpg
-layout: archive
 ---
 
 <div style="text-align: justify">
