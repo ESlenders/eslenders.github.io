@@ -10,7 +10,7 @@ authors: 'Giorgio Tortarolo, Yuansheng Sun, Kai Wen Teng, Yuji Ishitsuka, Luca L
 paperurl: https://pubs.rsc.org/ko/content/articlehtml/2019/nr/c8nr07485b
 doi: 10.1039/C8NR07485B
 tagline: '- Paper, Corresponding author'
-type: "time-resolved STED"
+type: "TR-STED microscopy"
 ---
 
 <h2> Abstract </h2>
