@@ -7,7 +7,7 @@ authors: 'Luca Lanzanò, Ivan Coto Hernández, Marco Castello, Enrico Gratton, A
 paperurl: https://www.nature.com/articles/ncomms7701
 doi: 10.1038/ncomms7701
 tagline: '- Paper, Corresponding author'
-type: "TR-STED"
+type: "time-resolved STED"
 ---
 
 <h2> Abstract </h2>
