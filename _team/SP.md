@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: bio-photo.jpg
 tags: post-doc
-tagline: Postdoc Fellow - CEO Genoa Instruments
+tagline: Postdoc Fellow (with Nanoscopy and NIC@IIT) - CEO Genoa Instruments
 subject: "Fluorescence Lifetime Image Scanning Microscopy"
 date: 2017-01-01
 email: 'simonluca.piazza@iit.it'
