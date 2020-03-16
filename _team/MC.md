@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: bio-photo.jpg
 tags: post-doc
-tagline: Postdoc Fellow - CTO Genoa Instruments
+tagline: Postdoc Fellow (with Nanoscopy and NIC@IIT) - CTO Genoa Instruments
 subject: "Fluorescence Lifetime Image Scanning Microscopy, Microscope Control System, and Image Reconstruction"
 date: 2013-01-01
 email: 'marco.castello@iit.it'
