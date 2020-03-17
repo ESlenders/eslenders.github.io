@@ -36,8 +36,8 @@ main:
   # - title: "CV"
   #   url: https://henriqueslab.github.io/files/Ricardo_Henriques_CV.pdf
 
-  # - title: "Teaching"
-  #   url: /teaching/
+  - title: "BrightEyes_ERC"
+    url: /erc/
 
   - title: "Lab@IIT"
     url: https://www.iit.it/research/lines/molecular-microscopy-and-spectroscopy
