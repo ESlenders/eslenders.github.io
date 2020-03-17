@@ -1,10 +1,7 @@
-
 ---
 layout: archive
-title: "News"
+title: "BrightEyes"
 permalink: /brighteyes/
 author_profile: true
-tweets:
 ---
-
-prova
+{% include base_path %}
