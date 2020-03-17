@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "BrightEyes"
+title: "BrightEyes Consolidator Grant 2018"
 permalink: /brighteyes/
 author_profile: true
 ---
