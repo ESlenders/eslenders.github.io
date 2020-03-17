@@ -8,7 +8,6 @@ author_profile: true
 
 <figure style="width: 50%" class="align-center">
 <img src='/images/BrightEyes_logo.jpg'>
-<figcaption>BrightEyes ERC Project Logo.</figcaption>
 </figure>
 
 <h2>Summary</h2>
