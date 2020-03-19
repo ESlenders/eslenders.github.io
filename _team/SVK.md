@@ -26,7 +26,6 @@ Sami Koho studied Information Technology in Tampere University of Technology, wi
 **AdaptiveSTED**: With high-resolution optical microscopes it is possible to take highly accurate pictures of the life taking place within cells. The problem however is that cells, especially in their natural environment — within a tissue — are not very transparent and thus not easy to image. Aberration correction has been found to improve the performance of optical microscopes in complex samples. The problem is that the state-of-the-art aberration correction techniques are themselves complex, and thus not suitable for non-expert users. In the AdaptiveSTED project we aim to develop a new aberration correction scheme, which ideally would be so simple to use and automatic that users, when taking pictures with a microscope, would not even need to know of its existence. 
 
 
-
 <!---{% include author-research-themes.html %}--->
 <!---{% include team-member-collaborators.html %}--->
 {% include publication-list.html %}
