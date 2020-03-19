@@ -26,5 +26,6 @@ My work has been supported by grants from various agencies such as the Fondazion
 
 I am co-founder and scientific advisor of the Genoa Instruments spin-o↵ company. The spin-o↵ is dedicated to launch a software and hardware add-on system which will transform any conventional confocal microscope into a high-resolution single-photon microscope.
 
+
   
   
