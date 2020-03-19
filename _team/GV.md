@@ -24,8 +24,10 @@ From 2008 to 2011 I worked as a post-doctoral fellow at the Department of NanoBi
 <p align= "justify">
 Since May 2011 I work in the Department of NanoPhysics (headed by Prof. Alberto Diaspro), Italian Institute of Technology (IIT, Italy), where in September 2013 I obtained a Researcher position, in May 2016 I became principal investigator (Tenure Track, Stage II) of the Molecular Microscopy and Spectroscopy research line, and in December 2019 I was granted tenure. I am also Adjunct Professor at the University of Genoa. While constantly working on STED microscopy [4], and on its combination with fluorescence-correlation spectroscopy (STED-FCS) [5, 3], I started also developing novel single-photon-avalanche diode (SPAD) arrays for fluorescence microscopy. This research has recently evolved in the invention of a new scanning microscopy technique able to double the spatial resolution of conventional microscopy, while maintain live-cell, multi-color, and three-dimension imaging capabilities and adding time-resolved spectroscopy/imaging (e.g., fluorescence lifetime, intensity fluctuation analysis, anti-bunching) [1]. This technique has introduced a new paradigm in fluorescence microscopy which proposes to unlock the secret carried by each single-photon, thus moving from the era of single-molecule microscopy to the era of single-photon microscopy. 
 <br>
+<p align= "justify">
 My work has been supported by grants from various agencies such as the Fondazione San Paolo (Italy), the Marie Sklodowska Curie Actions (MSCA) and the European Research Council (ERC). My most recent research grant is the five-years ERC Consolidator Grant project, entitled BrightEyes: Multi-Parameter Live-Cell Observation of Biomolecular Processes with Single-Photon Detector Array.
 <br>
+<p align= "justify">
 I am co-founder and scientific advisor of the Genoa Instruments spinoff company. 
 
 
