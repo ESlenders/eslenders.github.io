@@ -25,6 +25,8 @@ Since May 2011 I work in the Department of NanoPhysics (headed by Prof. Alberto 
 My work has been supported by grants from various agencies such as the Fondazione San Paolo (Italy), the Marie Sklodowska Curie Actions (MSCA) and the European Research Council (ERC). My most recent research grant is the five-years ERC Consolidator Grant project, entitled BrightEyes: Multi-Parameter Live-Cell Observation of Biomolecular Processes with Single-Photon Detector Array.
 <br>
 I am co-founder and scientific advisor of the Genoa Instruments spinoff company. 
+  
+<h2>Selected Pubblications</h2>
 
 
 
