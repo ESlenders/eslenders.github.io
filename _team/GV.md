@@ -18,7 +18,6 @@ cv: https://vicidominilab.github.io/files/VicidominiG_CV_2020_01_10.pdf
 <p align= "justify">
 I studied computer science at the Department of Computer and Information Science, University of Genoa (Italy) and received my Diploma cum laude in 2003 (advised by Prof. Mario Bertero and Prof. Patrizia Boccacci). From 2003 to 2007 I worked at the Laboratory of Advance Microscopy and Spectroscopy (LAMBS, University of Genoa, Italy); where I received my Ph.D (advised by Prof. Alberto Diaspro) about image processing and analysis for fluorescence microscopy.
 <br>
-<p align= "justify">
 From 2008 to 2011 I worked as a post-doctoral fellow at the Department of NanoBiophotonics (headed by Prof. Stefan W. Hell, Nobel Laureate in 2014), Max Planck Institute for Biophysical Chemistry (MPI, Germany); where I developed a new approach, based on the temporal analysis of the fluorescence signal, which allows stimulated emission deletion (STED) microscopy to achieve tens of nanometres spatial resolution with a substantial reduction of the dose of light requested, thus opening the effective application of STED microscopy with fluorescent proteins and living cells [6]. Currently, all commercially available STED microscopes implement this method. This work pioneered the use of the temporal information channel of a microscope, such as the ability of measuring the fluorescence signal dynamics at the nanoseconds scale, for improving the microscope spatial-resolution [2].
 <br>
 <p align= "justify">
