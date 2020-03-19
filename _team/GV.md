@@ -27,6 +27,17 @@ My work has been supported by grants from various agencies such as the Fondazion
 I am co-founder and scientific advisor of the Genoa Instruments spinoff company. 
   
 <h2>Selected Pubblications</h2>
+[1] M. Castello, G. Tortarolo, M. Buttafava, T. Deguchi, F. Villa, S. Koho, L. Pesce, M. Oneto, S. Pelicci, L. Lanzanò, P. Bianchini, C. J. Sheppard, A. Diaspro, A. Tosi, and G. Vicidomini. A robust and versatile platform for image scanning microscopy enabling super-resolution FLIM. Nat. Methods, 16(2):175–178, 2019. (preprint on bioRxiv).
+<br>
+[2] L. Lanzanò, I. Coto Hern ́andez, M. Castello, E. Gratton, A. Diaspro, and G. Vicidomini. Encod- ing and decoding spatio-temporal information for super-resolution microscopy. Nat. Commun., 6:6701, 04 2015.
+<br>
+[3] L. Lanzanò, L. Scipioni, M. Di Bona, P. Bianchini, R. Bizzarri, F. Cardarelli, A. Diaspro, and G. Vicidomini. Measurement of nanoscale three-dimensional di↵usion in the interior of living cells by sted-fcs. Nat. Commun., 8(1):65, 2017.
+<br>
+[4] G. Vicidomini, P. Bianchini, and A. Diaspro. STED super-resolved microscopy. Nat. Methods, 15(3):173–182, 2018.
+<br>
+[5] G. Vicidomini, T. Haisen, V. Mueller, A. Honigmann, M. P. Clausen, D. Waithe, E. Sezgin, A. Diaspro, S. W. Hell, and C. Eggeling. Spatio-temporal heterogeneity of lipid membrane dynamics revealed by STED-FLCS. Nano Lett., 15(9):5916–5918, 2015.
+<br>
+[6] G. Vicidomini, G. Moneron, K. Y. Han, V. Westphal, H. Ta, M. Reuss, J. Engelhardt, C. Eggeling, and S. W. Hell. Sharper low-power STED nanoscopy by time gating. Nat. Methods, 8(7):571–573, 2011.
 
 
 
