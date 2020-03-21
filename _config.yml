@@ -10,12 +10,12 @@ locale                   : "en-US"
 title                    : "Eli Slenders - personal web page"
 title2                    : "Start page"
 title_separator          : "-"
-name                     : &name "Giuseppe Vicidomini's Lab"
-description              : &description "Molecular Microscopy and Spectroscopy"
-url                      : https://VicidominiLab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#url                      : http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Eli Slenders - personal web page"
+description              : &description "Eli Slenders - personal web page"
+url                      : https://eslenders.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#url                      : https://eslenders.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "VicidominiLab/VicidominiLab.github.io"
+repository               : "eslenders/eslenders.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -75,13 +75,13 @@ social:
 
 # Site Author
 author:
-  name             : "Giuseppe Vicidomini"
-  avatar           : "https://VicidominiLab.github.io/images/GV.jpg"
-  bio              : "Senior Reseracher Tenured, Principal Investigator"
+  name             : "Eli Slenders"
+  avatar           : "https://VicidominiLab.github.io/images/EliSlenders.jpg"
+  bio              : "Postdoctoral fellow"
   location         : "Genoa, IT"
   employer         :
   googlescholar    : "https://scholar.google.it/citations?user=VnTrCCYAAAAJ&hl=en"
-  email            : "giuseppe.vicidomini@iit.it"
+  email            : "eli.slenders@iit.it"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "VicidominiLab"
+  github           : "eslenders"
   google_plus      :
   keybase          :
   instagram        :
