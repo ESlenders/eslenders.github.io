@@ -2,7 +2,7 @@
 title: "Biocompatible label-free detection of carbon black particles by femtosecond pulsed laser microscopy"
 collection: publications
 date: 2016-05-11
-venue: 'Optical Society of America A'
+venue: 'Nano Letters'
 authors: 'Colin JR Sheppard, Marco Castello, Giorgio Tortarolo, Eli Slenders, Takahiro Deguchi, Sami V Koho, Giuseppe Vicidomini, Alberto Diaspro'
 paperurl: https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-37-10-1639
 doi: 10.1364/JOSAA.402048
