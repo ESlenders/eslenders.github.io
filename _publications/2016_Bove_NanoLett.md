@@ -4,7 +4,7 @@ collection: publications
 date: 2016-05-11
 venue: 'Nano Letters'
 authors: 'Hannelore Bové, Christian Steuwe, Eduard Fron, Eli Slenders, Jan D'Haen, Yasuhiko Fujita, Hiroshi Uji-i, Martin vandeVen, Maarten Roeffaers, Marcel Ameloot'
-paperurl: https://pubs.acs.org/doi/10.1021/acs.nanolett.6b00502
+paperurl: http://www.google.be
 doi: 10.1021/acs.nanolett.6b00502
 tagline: '- Paper'
 type: "carbon black"
