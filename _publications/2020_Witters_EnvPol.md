@@ -1,13 +1,13 @@
 ---
-title: "Image scanning microscopy with multiphoton excitation or Bessel beam illumination"
+title: "Monitoring indoor exposure to combustion-derived particles using plants"
 collection: publications
-date: 2020-10-01
-venue: 'Optical Society of America A'
-authors: 'Colin JR Sheppard, Marco Castello, Giorgio Tortarolo, Eli Slenders, Takahiro Deguchi, Sami V Koho, Giuseppe Vicidomini, Alberto Diaspro'
-paperurl: https://doi.org/10.1364/JOSAA.402048
-doi: 10.1364/JOSAA.402048
+date: 2020-11-01
+venue: 'Environmental Pollution'
+authors: 'Katrien Witters, Michelle Plusquin, Eli Slenders, Imran Aslam, Marcel Ameloot, Maarten BJ Roeffaers, Jaco Vangronsveld, Tim S Nawrot, Hannelore Bove'
+paperurl: https://doi.org/10.1016/j.envpol.2020.115261
+doi: 10.1016/j.envpol.2020.115261
 tagline: '- Paper'
-type: "image-scanning microscopy"
+type: "combustion-derived particles"
 ---
 
 <h2> Abstract </h2>
