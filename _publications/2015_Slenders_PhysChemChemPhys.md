@@ -1,7 +1,7 @@
 ---
 title: "Coherent intensity fluctuation model for autocorrelation imaging spectroscopy with higher harmonic generating point scatterers—a comprehensive theoretical study"
 collection: publications
-date: 2015
+date: 2015-06-25
 venue: 'Physical Chemistry and Chemical Physics'
 authors: 'Eli Slenders, Jef Hooyberghs, Marcel Ameloot'
 paperurl: https://doi.org/10.1039/C5CP02567B
