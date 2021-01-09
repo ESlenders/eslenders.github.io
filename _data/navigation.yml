@@ -30,8 +30,8 @@ main:
   #- title: "Positions"
     #url: /positions/
 
-  - title: "Contact"
-    url: /contact/
+  #- title: "Contact"
+    #url: /contact/
 
   - title: "CV"
     url: https://henriqueslab.github.io/files/Ricardo_Henriques_CV.pdf
