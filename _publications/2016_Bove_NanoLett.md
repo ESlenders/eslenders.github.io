@@ -3,7 +3,7 @@ title: "Biocompatible label-free detection of carbon black particles by femtosec
 collection: publications
 date: 2016-05-11
 venue: 'Nano Letters'
-authors: 'Hannelore Bove, Christian Steuwe, Eduard Fron, Eli Slenders, Jan DHaen, Yasuhiko Fujita, Hiroshi Uji-i, Martin vandeVen, Maarten Roeffaers, Marcel Ameloot'
+authors: 'Hannelore Bove, Eli Slenders'
 paperurl: https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-37-10-1639
 doi: 10.1364/JOSAA.402048
 tagline: '- Paper'
