@@ -1,5 +1,5 @@
 ---
-title: "Image scanning microscopy with multiphoton excitation or Bessel beam illumination"
+title: "Biocompatible label-free detection of carbon black particles by femtosecond pulsed laser microscopy"
 collection: publications
 date: 2020-10-01
 venue: 'Optical Society of America A'
