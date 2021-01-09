@@ -3,7 +3,7 @@ title: "Image scanning microscopy with multiphoton excitation or Bessel beam ill
 collection: publications
 date: 2020-10-01
 venue: 'Optical Society of America A'
-authors: 'Colin JR Sheppard'
+authors: 'Colin JR Sheppard, Marco Castello, Giorgio Tortarolo, Eli Slenders, Takahiro Deguchi, Sami V Koho, Giuseppe Vicidomini, Alberto Diaspro'
 paperurl: https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-37-10-1639
 doi: 10.1364/JOSAA.402048
 tagline: '- Paper'
