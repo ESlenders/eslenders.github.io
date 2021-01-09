@@ -5,6 +5,7 @@ date: 2015-06-25
 venue: 'Physical Chemistry and Chemical Physics'
 authors: 'Eli Slenders, Jef Hooyberghs, Marcel Ameloot'
 paperurl: https://doi.org/10.1039/C5CP02567B
+doi: 10.1039/C5CP02567B
 tagline: '- Paper'
 type: "Coherent correlation spectroscopy"
 ---

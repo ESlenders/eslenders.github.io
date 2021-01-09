@@ -5,6 +5,7 @@ date: 2020-06-01
 venue: 'Biomedical Optics Express'
 authors: 'Sami V Koho, Eli Slenders, Giorgio Tortarolo, Marco Castello, Mauro Buttafava, Federica Villa, Elena Tcarenkova, Marcel Ameloot, Paolo Bianchini, Colin JR Sheppard, Alberto Diaspro, Alberto Tosi, Giuseppe Vicidomini'
 paperurl: https://doi.org/10.1364/BOE.374398
+doi: 10.1364/BOE.374398
 tagline: '- Paper'
 type: "two-photon image-scanning microscopy"
 ---

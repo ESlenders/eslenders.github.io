@@ -5,6 +5,7 @@ date: 2019-09-17
 venue: 'Nature Communications'
 authors: 'Hannelore Bové, Eva Bongaerts, Eli Slenders, Esmée M Bijnens, Nelly D Saenen, Wilfried Gyselaers, Peter Van Eyken, Michelle Plusquin, Maarten BJ Roeffaers, Marcel Ameloot, Tim S Nawrot'
 paperurl: https://doi.org/10.1038/s41467-019-11654-3
+doi: 10.1038/s41467-019-11654-3
 tagline: '- Paper'
 type: "black carbon particles"
 ---

@@ -5,6 +5,7 @@ date: 2020-10-01
 venue: 'Optical Society of America A'
 authors: 'Colin JR Sheppard, Marco Castello, Giorgio Tortarolo, Eli Slenders, Takahiro Deguchi, Sami V Koho, Giuseppe Vicidomini, Alberto Diaspro'
 paperurl: https://doi.org/10.1364/JOSAA.402048
+doi: 10.1364/JOSAA.402048
 tagline: '- Paper'
 type: "image-scanning microscopy"
 ---

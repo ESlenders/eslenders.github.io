@@ -5,6 +5,7 @@ date: 2018-12-01
 venue: 'Journal of nanobiotechnology'
 authors: 'Hannelore Bové, Jens Devoght, Leentje Rasking, Martijn Peters, Eli Slenders, Maarten Roeffaers, Alvaro Jorge-Peñas, Hans Van Oosterwyck, Marcel Ameloot'
 paperurl: https://doi.org/10.1186/s12951-018-0410-x
+doi: 10.1186/s12951-018-0410-x
 tagline: '- Paper'
 type: "Combustion-derived particles"
 ---

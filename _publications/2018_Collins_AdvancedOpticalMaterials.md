@@ -5,6 +5,7 @@ date: 2018-05-03
 venue: 'Advanced Optical Materials'
 authors: 'Joel T. Collins, Xuezhi Zheng, Nuno V. S. Braz, Eli Slenders, Shuai Zu, Guy A. E. Vandenbosch, Victor V. Moshchalkov, Zheyu Fang, Marcel Ameloot, Paul A. Warburton, Ventsislav K. Valev'
 paperurl: https://doi.org/10.1002/adom.201800153
+doi: 10.1002/adom.201800153
 tagline: '- Paper'
 type: "Chiral Plasmonic Nanostructures"
 ---
