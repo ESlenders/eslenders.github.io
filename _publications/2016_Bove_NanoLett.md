@@ -1,13 +1,13 @@
 ---
-title: "Biocompatible label-free detection of carbon black particles by femtosecond pulsed laser microscopy"
+title: "Image scanning microscopy with multiphoton excitation or Bessel beam illumination"
 collection: publications
-date: 2016-05-11
-venue: 'Nano Letters'
-authors: 'Hannelore Bove, Christian Steuwe, Eduard Fron, Eli Slenders, Jan DHaen, Yasuhiko Fujita, Hiroshi Uji-i, Martin vandeVen, Maarten Roeffaers, Marcel Ameloot'
-paperurl: https://pubs.acs.org/doi/10.1021/acs.nanolett.6b00502
-doi: 10.1021/acs.nanolett.6b00502
+date: 2020-10-01
+venue: 'Optical Society of America A'
+authors: 'Colin JR Sheppard, Marco Castello, Giorgio Tortarolo, Eli Slenders, Takahiro Deguchi, Sami V Koho, Giuseppe Vicidomini, Alberto Diaspro'
+paperurl: https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-37-10-1639
+doi: 10.1364/JOSAA.402048
 tagline: '- Paper'
-type: "carbon black"
+type: "image-scanning microscopy"
 ---
 
 <h2> Abstract </h2>
