@@ -76,11 +76,11 @@ social:
 # Site Author
 author:
   name             : "Eli Slenders"
-  avatar           : "https://VicidominiLab.github.io/images/EliSlenders.jpg"
+  avatar           : "https://eslenders.github.io/images/EliSlenders.jpg"
   bio              : "Postdoctoral fellow"
-  location         : "Genoa, IT"
+  location         : "Genoa, Italy"
   employer         :
-  googlescholar    : "https://scholar.google.it/citations?user=VnTrCCYAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?en=nl&user=BhJu6RMAAAAJ"
   email            : "eli.slenders@iit.it"
   uri              :
   bitbucket        :
@@ -95,13 +95,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-3085-730X"
+  orcid            : "http://orcid.org/0000-0002-6757-1372"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "VicidominiLab"
+  twitter          : "EliSlenders"
   vine             :
   weibo            :
   xing             :
