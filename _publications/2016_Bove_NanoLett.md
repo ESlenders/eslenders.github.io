@@ -4,8 +4,8 @@ collection: publications
 date: 2016-05-11
 venue: 'Nano Letters'
 authors: "Hannelore Bové, Christian Steuwe, Eduard Fron, Eli Slenders, Jan D'Haen, Yasuhiko Fujita, Hiroshi Uji-i, Martin vandeVen, Maarten Roeffaers, Marcel Ameloot"
-paperurl: https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-37-10-1639
-doi: 10.1364/JOSAA.402048
+paperurl: https://pubs.acs.org/doi/10.1021/acs.nanolett.6b00502
+doi: 10.1021/acs.nanolett.6b00502
 tagline: '- Paper'
 type: "image-scanning microscopy"
 ---
