@@ -4,7 +4,7 @@ collection: publications
 date: 2015-01-01
 venue: 'Advances in Condensed Matter Physics'
 authors: 'Patricia Losada-Pérez, Nathalie Mertens, Bruno De Medio-Vasconcelos, Eli Slenders, Jan Leys, Marloes Peeters, Bart Van Grinsven, Jonas Gruber, Christ Glorieux, Helge Pfeiffer, Patrick Wagner, Jan Thoen'
-paperurl: https://doi.org/10.1155/2015/479318
+paperurl: https://www.hindawi.com/journals/acmp/2015/479318/
 doi: 10.1155/2015/479318
 tagline: '- Paper'
 type: "Phase transitions of lipid mixtures"

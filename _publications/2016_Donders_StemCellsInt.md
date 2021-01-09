@@ -4,7 +4,7 @@ collection: publications
 date: 2016-09-26
 venue: 'Stem Cells International'
 authors: 'Raf Donders, Kathleen Sanen, Rik Paesen, Eli Slenders, Wilfried Gyselaers, Piet Stinissen, Marcel Ameloot, Niels Hellings'
-paperurl: https://doi.org/10.1155/2016/5457132
+paperurl: https://www.hindawi.com/journals/sci/2016/5457132/
 doi: 10.1155/2016/5457132
 tagline: '- Paper'
 type: "Label-free imaging of umbilical cord tissue"

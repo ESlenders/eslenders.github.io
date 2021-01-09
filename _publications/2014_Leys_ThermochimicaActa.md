@@ -4,7 +4,7 @@ collection: publications
 date: 2014-04-20
 venue: 'Thermochimica Acta'
 authors: 'Jan Leys, Patricia Losada-Pérez, Eli Slenders, Christ Glorieux, Jan Thoen'
-paperurl: https://doi.org/10.1016/j.tca.2014.02.023
+paperurl: https://linkinghub.elsevier.com/retrieve/pii/S0040603114000653
 doi: 10.1016/j.tca.2014.02.023
 tagline: '- Paper'
 type: "Adiabatic scanning calorimetry"

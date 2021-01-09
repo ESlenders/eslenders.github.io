@@ -4,7 +4,7 @@ collection: publications
 date: 2020-10-01
 venue: 'Optical Society of America A'
 authors: 'Colin JR Sheppard, Marco Castello, Giorgio Tortarolo, Eli Slenders, Takahiro Deguchi, Sami V Koho, Giuseppe Vicidomini, Alberto Diaspro'
-paperurl: https://doi.org/10.1364/JOSAA.402048
+paperurl: https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-37-10-1639
 doi: 10.1016/j.envpol.2020.115261
 tagline: '- Paper'
 type: "combustion-derived particles"

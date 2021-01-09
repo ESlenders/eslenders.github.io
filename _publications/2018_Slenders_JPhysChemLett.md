@@ -4,7 +4,7 @@ collection: publications
 date: 2018-10-01
 venue: 'The journal of physical chemistry letters'
 authors: 'Eli Slenders, Hannelore Bové, Mathias Urbain, Yannick Mugnier, Ali Yasin Sonay, Periklis Pantazis, Luigi Bonacina, Pieter Vanden Berghe, Martin VandeVen, Marcel Ameloot'
-paperurl: https://doi.org/10.1021/acs.jpclett.8b02686
+paperurl: https://pubs.acs.org/doi/10.1021/acs.jpclett.8b02686
 doi: 10.1021/acs.jpclett.8b02686
 tagline: '- Paper'
 type: "Image correlation spectroscopy"

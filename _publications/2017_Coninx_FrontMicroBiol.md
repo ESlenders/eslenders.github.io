@@ -4,7 +4,7 @@ collection: publications
 date: 2017-11-28
 venue: 'Frontiers in microbiology'
 authors: 'Laura Coninx, Anneleen Thoonen, Eli Slenders, Emmanuelle Morin, Natascha Arnauts, Michiel Op De Beeck, Annegret Kohler, Joske Ruytinx, Jan V Colpaert'
-paperurl: https://doi.org/10.3389/fmicb.2017.02320
+paperurl: https://www.frontiersin.org/articles/10.3389/fmicb.2017.02320/full
 doi: 10.3389/fmicb.2017.02320
 tagline: '- Paper'
 type: "SlZRT1 gene"
