@@ -31,44 +31,6 @@
         <img src="{{ "cover_bioRxiv.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "arXiv" %}
         <img src="{{ "cover_arXiv.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-      {% elsif post.venue == "Neurophotonics" %}
-        <img src="{{ "cover_neurophotonics.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-      {% elsif post.venue == "Nanoscale" %}
-        <img src="{{ "cover_nanoscale.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-      {% elsif post.venue == "J. Opt. Soc. Am. A" %}
-        <img src="{{ "cover_JOSAA.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-      {% elsif post.venue == "J. Phys. D" %}
-        <img src="{{ "cover_jphysd.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-      {% elsif post.venue == "Nat. Methods" %}
-        <img src="{{ "cover_nmeth.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-      {% elsif post.venue == "Nat. Comm." %}
-        <img src="{{ "cover_ncomm.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-      {% elsif post.venue == "Nature microbiology" %}
-        <img src="{{ "cover_nmicro.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-      {% elsif post.venue == "Scientific reports" %}
-        <img src="{{ "cover_scirep.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-      {% elsif post.venue == "SPIE" %}
-        <img src="{{ "cover_spie.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-      {% elsif post.venue == "Frontiers in immunology" %}
-        <img src="{{ "cover_frontimmun.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-      {% elsif post.venue == "Biochemical Society Transactions" %}
-        <img src="{{ "cover_biochemsoctrans.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-      {% elsif post.venue == "The annals of applied statistics" %}
-        <img src="{{ "cover_annalsstat.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-      {% elsif post.venue == "The international journal of biochemistry & cell biology" %}
-        <img src="{{ "cover_tijbcb.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-      {% elsif post.venue == "JoVE (Journal of Visualized Experiments)" %}
-        <img src="{{ "cover_jove.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-      {% elsif post.venue == "Journal of Experimental Medicine" %}
-        <img src="{{ "cover_jem.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-      {% elsif post.venue == "Journal of Cell Biology" %}
-        <img src="{{ "cover_jcb.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-      {% elsif post.venue == "Developmental cell" %}
-        <img src="{{ "cover_devcell.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-      {% elsif post.venue == "Cell host & microbe" %}
-        <img src="{{ "cover_chm.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-      {% elsif post.venue == "Methods in cell biology" %}
-        <img src="{{ "cover_micb.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
 	  {% elsif post.venue == "Optical Society of America A" %}
         <img src="{{ "osa.jpg" | prepend: "/images/journals/" | prepend: base_path }}" alt="">
 	  {% elsif post.venue == "Biomedical Optics Express" %}
@@ -79,14 +41,6 @@
         <img src="{{ "thermochimicaacta.gif" | prepend: "/images/journals/" | prepend: base_path }}" alt="">
 	  {% elsif post.venue == "Advances in Condensed Matter Physics" %}
         <img src="{{ "advcondmattphys.jpg" | prepend: "/images/journals/" | prepend: base_path }}" alt="">
-      {% elsif post.venue == "EMBO reports" %}
-        <img src="{{ "cover_emborep.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-      {% elsif post.venue == "PLoS pathogens" %}
-        <img src="{{ "cover_plospath.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-      {% elsif post.venue == "The Journal of Immunology" %}
-        <img src="{{ "cover_ji.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-      {% elsif post.title == "Standard and super-resolution bioimaging data analysis: a primer" %}
-        <img src="{{ "cover_primer.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% else %}
         <img src="{{ "journal.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% endif %}
