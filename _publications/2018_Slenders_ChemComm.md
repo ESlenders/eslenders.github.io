@@ -1,7 +1,7 @@
 ---
 title: "Dynamics of the phospholipid shell of microbubbles: a fluorescence photoselection and spectral phasor approach"
 collection: publications
-date: 2018
+date: 2018-04-20
 venue: 'Chemical Communications'
 authors: 'Eli Slenders, Senne Seneca, Sumit Kumar Pramanik, Nick Smisdom, Peter Adriaensens, Anitha Ethirajan, Marcel Ameloot'
 paperurl: https://doi.org/10.1039/C8CC01012A
