@@ -25,7 +25,7 @@ layout: archive
 
 <p>
 <figure style="width: 60%" class="align-center">
-<img src='../images/fcs/SPAD_FCS_animation.gif'>
+<img src='images/fcs/SPAD_FCS_animation.gif'>
 <figcaption>Figure 1: Fluorescence Fluctuation Spectroscopy Setup with a SPAD array detector.</figcaption>
 </figure>
 </p>
@@ -36,7 +36,7 @@ The high-resolution spatial and temporal information can be analyzed in several 
 
 <p>
 <figure style="width: 80%" class="align-center">
-<img src='../images/fcs/spot_variation_FCS.png'>
+<img src='../../images/fcs/spot_variation_FCS.png'>
 <figcaption>Figure 2: Spot-variation FCS analysis. (left) Summing the signals from multiple pixels produces different correlation functions and hence different diffusion times. (right) The relationship between the diffusion time and the size of the focal volume gives information on the type of diffusion.</figcaption>
 </figure>
 </p>
