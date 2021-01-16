@@ -23,7 +23,7 @@
   settings:
     height:  "'auto'"
     interval: 10000
-    transitionDuration: 400
+    transitionDuration: 700
     effect: "'slide'"
 
 
