@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eli Slenders - personal web page"
+title                    : "Personal web page"
 title2                    : "Start page"
 title_separator          : "-"
-name                     : &name "Eli Slenders - personal web page"
+name                     : &name "Personal web page"
 description              : &description "Eli Slenders - personal web page"
 url                      : https://eslenders.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : https://eslenders.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
