@@ -11,9 +11,13 @@ header:
 layout: archive
 ---
 
-<div style="text-align: justify">
+<div style="text-align: right">
 
 <p><a href="../FCS">&lt; Back to overview</a></p>
+
+</div>
+
+<div style="text-align: justify">
 
 <p>The video below explains FCS in layman's terms. Subtitles are available in English, Italian and Dutch.</p>
 
