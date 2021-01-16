@@ -19,4 +19,7 @@ FCS info
 <figcaption>fig caption.</figcaption>
 </figure>
 
+Some more text <a href="http://www.google.com">Google</a>
+
+
 
