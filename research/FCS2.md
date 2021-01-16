@@ -13,11 +13,11 @@ layout: archive
 
 <div style="text-align: justify">
 
-<a href="../FCS">&lt; Back to overview</a>
+<p><a href="../FCS">&lt; Back to overview</a></p>
 
-The video below explains FCS in layman's terms. Subtitles are available in English, Italian and Dutch.
+<p>The video below explains FCS in layman's terms. Subtitles are available in English, Italian and Dutch.</p>
 
-Second paragraph
+<p>Second paragraph</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vL9hmcB5bcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
