@@ -4,7 +4,7 @@ collection: publications
 date: 2020-11-01
 venue: 'Environmental Pollution'
 authors: 'Katrien Witters, Michelle Plusquin, Eli Slenders, Imran Aslam, Marcel Ameloot, Maarten BJ Roeffaers, Jaco Vangronsveld, Tim S Nawrot, Hannelore Bové'
-paperurl: https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-37-10-1639
+paperurl: https://doi.org/10.1016/j.envpol.2020.115261
 doi: 10.1016/j.envpol.2020.115261
 tagline: '- Paper'
 type: "combustion-derived particles"
@@ -12,7 +12,7 @@ type: "combustion-derived particles"
 
 <h2> Abstract </h2>
 <p align= "justify">
-Image scanning microscopy is a technique of confocal microscopy in which the confocal pinhole is replaced by a detector array, and the image is reconstructed most straightforwardly by pixel reassignment. In the fluorescence mode, the detector array collects most of the fluorescent light, so the signal-to-noise ratio is much improved compared with confocal microscopy with a small pinhole, while the resolution is improved compared with conventional fluorescence microscopy. Here we consider two cases in which the illumination and detection point spread functions are dissimilar: illumination with a Bessel beam and multiphoton microscopy. It has been shown previously that for Bessel beam illumination in image scanning microscopy with a large array, the imaging performance is degraded. On the other hand, it is also known that the resolution of confocal microscopy is improved by Bessel beam illumination. Here...
+Indoor plants can be used to monitor atmospheric particulates. Here, we report the label-free detection of combustion-derived particles (CDPs) on plants as a monitoring tool for indoor pollution. First, we measured the indoor CDP deposition on Atlantic ivy leaves (Hedera hibernica) using two-photon femtosecond microscopy. Subsequently, to prove its effectiveness for using it as a monitoring tool, ivy plants were placed near five different indoor sources. CDP particle area and number were used as output metrics. CDP values ranged between a median particle area of 0.45 x 102 to 1.35 x 10^4 μm2, and a median particle number of 0.10 x 102 to 1.42 x 10^3 particles for the indoor sources: control (greenhouse) < milling machine < indoor smokers < wood stove < gas stove < laser printer. Our findings demonstrate that Atlantic ivy, combined with label-free detection, can be effectively used in indoor atmospheric monitoring studies.
   
   
   
