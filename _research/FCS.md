@@ -14,7 +14,7 @@ layout: archive
 <div style="text-align: justify">
 FCS info
 
-<figure style="width: 50%" class="align-center">
+<figure style="width: 20%" class="align-center">
 <img src='/images/fcs/fcs_sketch.png'>
 <figcaption>fig caption.</figcaption>
 </figure>
