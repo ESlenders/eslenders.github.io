@@ -14,10 +14,9 @@ layout: archive
 <div style="text-align: justify">
 FCS info
 
-<a href="http://www.google.it">
-<figure style="width: 20%" class="align-center">
-<img src='/images/fcs/fcs_sketch.png'>
-<figcaption>fig caption.</figcaption>
+<a href="../FCS2">
+<figure style="width: 30%" class="align-center">
+<img src='/images/fcs/layman_terms.png'>
 </figure>
 </a>
 
