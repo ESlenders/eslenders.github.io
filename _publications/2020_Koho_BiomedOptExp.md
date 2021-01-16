@@ -3,10 +3,10 @@ title: "Two-photon image-scanning microscopy with SPAD array and blind image rec
 collection: publications
 date: 2020-06-01
 venue: 'Biomedical Optics Express'
-authors: 'Sami V Koho, Eli Slenders, Giorgio Tortarolo, Marco Castello, Mauro Buttafava, Federica Villa, Elena Tcarenkova, Marcel Ameloot, Paolo Bianchini, Colin JR Sheppard, Alberto Diaspro, Alberto Tosi, Giuseppe Vicidomini'
+authors: 'Sami V Koho (1), Eli Slenders (1), Giorgio Tortarolo, Marco Castello, Mauro Buttafava, Federica Villa, Elena Tcarenkova, Marcel Ameloot, Paolo Bianchini, Colin JR Sheppard, Alberto Diaspro, Alberto Tosi, Giuseppe Vicidomini'
 paperurl: https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-11-6-2905&id=431589
 doi: 10.1364/BOE.374398
-tagline: '- Paper'
+tagline: '- Paper, (1) Shared first author'
 type: "two-photon image-scanning microscopy"
 ---
 
