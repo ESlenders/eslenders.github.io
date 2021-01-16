@@ -19,7 +19,7 @@ FCS info
 <figcaption>fig caption.</figcaption>
 </figure>
 
-<iframe width="200" src="https://www.youtube.com/embed/vL9hmcB5bcQ" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="200" src="https://www.youtube.com/embed/vL9hmcB5bcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Some more text <a href="http://www.google.com">Google</a>
 

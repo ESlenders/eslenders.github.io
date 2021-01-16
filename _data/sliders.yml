@@ -16,12 +16,10 @@
   bullets: True
   captions: True
   images:
-    - src: /images/SPAD_Array_BW_long.jpg
-      alt: SPAD Array Detector on Custom Microscope
-    - src: /images/ISM_CLSM_Comparison.jpg
-      alt: Confocal Versus Image Scanning Microscopy
-    - src: /images/supports.jpg
-      alt: Grants and Fundings
+    - src: /images/banners/fcs_banner.png
+      alt: FCS with SPAD Array Detection
+    - src: /images/banners/SPAD_Array_BW_long.jpg
+      alt: SPAD Array Detector
   settings:
     height:  "'auto'"
     interval: 10000
