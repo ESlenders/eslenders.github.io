@@ -25,7 +25,7 @@ layout: archive
 
 <p>
 <figure style="width: 60%" class="align-center">
-<img src='images/fcs/SPAD_FCS_animation.gif'>
+<img src='../../images/fcs/SPAD_FCS_animation.gif'>
 <figcaption>Figure 1: Fluorescence Fluctuation Spectroscopy Setup with a SPAD array detector.</figcaption>
 </figure>
 </p>
