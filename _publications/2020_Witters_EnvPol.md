@@ -3,7 +3,7 @@ title: "Monitoring indoor exposure to combustion-derived particles using plants"
 collection: publications
 date: 2020-11-01
 venue: 'Environmental Pollution'
-authors: 'Katrien Witters, Michelle Plusquin, Eli Slenders, Imran Aslam, Marcel Ameloot, Maarten BJ Roeffaers, Jaco Vangronsveld, Tim S Nawrot, Hannelore Bove'
+authors: 'Katrien Witters, Michelle Plusquin, Eli Slenders, Imran Aslam, Marcel Ameloot, Maarten BJ Roeffaers, Jaco Vangronsveld, Tim S Nawrot, Hannelore Bové'
 paperurl: https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-37-10-1639
 doi: 10.1016/j.envpol.2020.115261
 tagline: '- Paper'
