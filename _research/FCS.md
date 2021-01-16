@@ -21,6 +21,13 @@ FCS info
 </figure>
 </a>
 
+<a href="http://www.google.it">
+<figure style="width: 20%" class="align-center">
+<img src='/images/fcs/fcs_sketch.png'>
+<figcaption>fig caption.</figcaption>
+</figure>
+</a>
+
 <iframe width="200" src="https://www.youtube.com/embed/vL9hmcB5bcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Some more text <a href="http://www.google.com">Google</a>
