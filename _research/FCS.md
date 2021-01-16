@@ -19,6 +19,4 @@ FCS info
 <figcaption>fig caption.</figcaption>
 </figure>
 
-{% include publication-list-theme.html %}
-
 
