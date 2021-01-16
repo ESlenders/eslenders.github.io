@@ -12,14 +12,11 @@ layout: archive
 ---
 
 <div style="text-align: justify">
-FCS info
 
-<figure style="width: 50%" class="align-center">
-<img src='/images/fcs/fcs_sketch.png'>
-<figcaption>fig caption.</figcaption>
-</figure>
+The video below explains FCS in layman's terms. Subtitles are available in English, Italian and Dutch.
 
-Some more text <a href="http://www.google.com">Google</a>
+<iframe width="200" src="https://www.youtube.com/embed/vL9hmcB5bcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 
