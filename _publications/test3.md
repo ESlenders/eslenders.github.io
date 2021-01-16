@@ -3,7 +3,7 @@ title: "Dynamics of the phospholipid shell of microbubbles: a fluorescence photo
 collection: publications
 date: 2018-04-20
 venue: 'Chemical Communications'
-authors: 'Eli Slenders, Mauro Buttafava, Takahiro Deguchi, Federica Villa, Sami Koho, Luca Pesce, Michele Oneto, Simone Pelicci, Luca Lanzanó, Paolo Bianchini, Colin J. R. Sheppard, Alberto Diaspro, Alberto Tosi, Giuseppe Vicidomini'
+authors: 'Eli Slenders, Mauro Buttafava, Takahiro Deguchi, Federica Villa, Sami Koho, Luca Pesce, Michele Oneto, Simone Pelicci, Luca Lanzanó, Paolo Bianchini, Colin J. R. Sheppard, Alberto Diaspro, Alberto Tosi'
 paperurl: https://www.nature.com/articles/s41592-018-0291-9
 doi: 10.1038/s41592-018-0291-9
 tagline: '- Paper, Corresponding author'
