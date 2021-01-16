@@ -12,7 +12,6 @@ layout: archive
 ---
 
 <div style="text-align: justify">
-FCS info
 
 <a href="../FCS2">
 <figure style="width: 20%" class="align-center">
