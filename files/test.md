@@ -26,7 +26,7 @@ layout: archive
 </a>
 
 <a href="../FCS_advanced">
-<figure style="width: 20%" class="align-center">
+<figure style="width: 20%" class="align-center-custom">
 <img src='/images/fcs/advanced_explanation.png'>
 </figure>
 </a>
