@@ -11,12 +11,6 @@ header:
 layout: archive
 ---
 
-<div style="text-align: right">
-
-<p><a href="../FCS">&lt; Back to overview</a></p>
-
-</div>
-
 <div style="text-align: justify">
 
 <a href="../FCS2">
