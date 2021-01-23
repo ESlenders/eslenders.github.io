@@ -19,22 +19,17 @@ layout: archive
 
 <div style="text-align: justify">
 
-<h3>Contact Form</h3>
+<a href="../FCS2">
+<figure style="width: 20%" class="align-center-custom">
+<img src='/images/fcs/layman_terms.png'>
+</figure>
+</a>
 
-<div>
-  <form action="/files/action_page.php">
-    <label for="fname">First Name</label>
-    <input type="text" name="firstname" placeholder="Your name..">
-
-    <label for="lname">Last Name</label>
-    <input type="text" name="lastname" placeholder="Your last name..">
-
-    <label for="subject">Message</label>
-    <textarea name="message" placeholder="Write something.." style="height:200px"></textarea>
-
-    <input type="submit" value="Submit">
-  </form>
-</div>
+<a href="../FCS_advanced">
+<figure style="width: 20%" class="align-center">
+<img src='/images/fcs/advanced_explanation.png'>
+</figure>
+</a>
 
 
 
