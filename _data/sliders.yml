@@ -16,10 +16,10 @@
   bullets: True
   captions: True
   images:
-    - src: /images/banners/fcs_banner.png
-      alt: FCS with SPAD Array Detection
     - src: /images/banners/setup_banner.jpg
       alt: Setup
+    - src: /images/banners/fcs_banner.png
+      alt: FCS with SPAD Array Detection
     - src: /images/banners/SPAD_Array_BW_long.jpg
       alt: SPAD Array Detector
   settings:
