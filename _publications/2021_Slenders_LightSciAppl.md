@@ -4,8 +4,8 @@ collection: publications
 date: 2021-01-25
 venue: 'Light, science & applications'
 authors: 'Eli Slenders, Marco Castello, Mauro Buttafava, Federica Villa, Alberto Tosi, Luca Lanzanò, Sami V Koho, Giuseppe Vicidomini'
-paperurl: 
-doi: 
+paperurl: https://doi.org/10.1038/s41377-021-00475-z
+doi: 10.1038/s41377-021-00475-z
 tagline: '- Paper'
 type: "Fluorescence fluctuation spectroscopy"
 ---
