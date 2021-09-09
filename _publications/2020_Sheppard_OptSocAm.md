@@ -12,7 +12,7 @@ type: "image-scanning microscopy"
 
 <h2> Abstract </h2>
 <p align= "justify">
-Image scanning microscopy is a technique of confocal microscopy in which the confocal pinhole is replaced by a detector array, and the image is reconstructed most straightforwardly by pixel reassignment. In the fluorescence mode, the detector array collects most of the fluorescent light, so the signal-to-noise ratio is much improved compared with confocal microscopy with a small pinhole, while the resolution is improved compared with conventional fluorescence microscopy. Here we consider two cases in which the illumination and detection point spread functions are dissimilar: illumination with a Bessel beam and multiphoton microscopy. It has been shown previously that for Bessel beam illumination in image scanning microscopy with a large array, the imaging performance is degraded. On the other hand, it is also known that the resolution of confocal microscopy is improved by Bessel beam illumination. Here...
+In image scanning microscopy, the pinhole of a confocal microscope is replaced by a detector array. The point spread function for each detector element can be interpreted as the probability density function of the signal, the peak giving the most likely origin. This thus allows a form of maximum likelihood restoration, and compensation for aberrations, with similarities to adaptive optics. As an example of an aberration, we investigate theoretically and experimentally illumination with a vortex doughnut beam. After reassignment and summation over the detector array, the point spread function is compact, and the resolution and signal level higher than in a conventional microscope.
   
   
   
