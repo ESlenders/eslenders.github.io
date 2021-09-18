@@ -6,7 +6,9 @@ author_profile: true
 tweets:
 ---
 
-<video controls width="480">
+<p>August 6 2021: RAI television reporting on the SPAD detector.</p>
+
+<video controls width="520">
     <source src="../videos/rai_tv_2021.webm"
             type="video/webm">
     Sorry, your browser doesn't support embedded videos.
