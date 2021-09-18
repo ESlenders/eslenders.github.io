@@ -6,7 +6,7 @@ author_profile: true
 tweets:
 ---
 
-<video controls width="250">
+<video controls width="480">
     <source src="../videos/rai_tv_2021.webm"
             type="video/webm">
     Sorry, your browser doesn't support embedded videos.
