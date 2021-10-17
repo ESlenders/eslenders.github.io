@@ -3,10 +3,10 @@ title: "Cooled SPAD array detector for low light-dose fluorescence laser scannin
 collection: publications
 date: 2021-12-08
 venue: 'Biophysical Reports'
-authors: 'Eli Slenders, Eleonora Perego, Mauro Buttafava, Giorgio Tortarolo, Enrico Conca, Sabrina Zappone, Agnieszka Pierzynska-Mach, Federica Villa, Enrica Maria Petrini, Andrea Barberis, Alberto Tosi, Giuseppe Vicidomini'
+authors: 'Eli Slenders (1), Eleonora Perego (1), Mauro Buttafava, Giorgio Tortarolo, Enrico Conca, Sabrina Zappone, Agnieszka Pierzynska-Mach, Federica Villa, Enrica Maria Petrini, Andrea Barberis, Alberto Tosi, Giuseppe Vicidomini'
 paperurl: https://doi.org/10.1016/j.bpr.2021.100025
 doi: 10.1016/j.bpr.2021.100025
-tagline: '- Paper'
+tagline: '- Paper, shared first author'
 type: "Cooled SPAD detector"
 ---
 
