@@ -1,13 +1,13 @@
 ---
-title: "Fluorescence Correlation Spectroscopy"
-type: FCS
+title: "ISM-FLUX"
+type: ISMFLUX
 collection: research
-date: 2021-01-01
+date: 2022-10-02
 author_profile: false
 sidebar:
   nav: "Tech"
 header:
-  teaser: fcs/fcs_sketch.png
+  teaser: ismflux/ismflux_sketch.png
 layout: archive
 ---
 
@@ -19,9 +19,8 @@ layout: archive
 
 <div style="text-align: justify">
 
-<p>The video below explains FCS in layman's terms. Subtitles are available in English, Italian and Dutch.</p>
+<p>Full preprint <a href="https://www.biorxiv.org/content/10.1101/2022.04.19.488747v2.full.pdf">here</a>.</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vL9hmcB5bcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
