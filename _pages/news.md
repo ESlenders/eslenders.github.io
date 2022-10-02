@@ -6,9 +6,9 @@ author_profile: true
 tweets:
 ---
 
-<p>May 24 2022: Explanation of the concept of ISM-FLUX for super-resolution imaging. Video made for the 2022 Falling Walls competition.</p>
+<p>May 24 2022: Explanation in layman's terms of the concept of ISM-FLUX for super-resolution imaging. Video made for the 2022 Falling Walls competition.</p>
 
-<iframe width="520" height="315" src="https://www.youtube.com/embed/S0TZYv22s94" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="300" src="https://www.youtube.com/embed/S0TZYv22s94" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p>August 6 2021: RAI television reporting on the SPAD detector.</p>
 
