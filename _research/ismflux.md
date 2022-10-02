@@ -13,11 +13,10 @@ layout: archive
 
 <div style="text-align: justify">
 
-<a href="../ISMFLUX">
-<figure style="width: 20%" class="align-center-custom">
-<img src='/images/fcs/layman_terms.png'>
-</figure>
-</a>
+<p>Full preprint <a href="https://www.biorxiv.org/content/10.1101/2022.04.19.488747v2.full.pdf">here</a>.</p>
+
+Single-molecule localization based on the concept of MINFLUX allows for molecular resolution imaging and tracking. However, MINFLUX has a limited field-of-view (FOV) and therefore requires a precise pre-localization step. We propose ISM-FLUX, a localization technique that combines structured illumination with structured detection. We show that by replacing the point-detector with a small single-photon detector array (e.g., of 5 × 5 elements) and sequentially exciting the sample with multiple spatially separated (doughnut-shaped) beams, a localization uncertainty between 1 and 15 nm can be obtained over a FOV of more than 800 nm with 100 photons. The large FOV and the extra spatial information induced by the detector array relax the requirements on prior information on the fluorophore’s position. In addition, ISM-FLUX allows the localization of multiple molecules simultaneously.
+
 
 
 
