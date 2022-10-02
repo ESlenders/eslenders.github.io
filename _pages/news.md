@@ -8,11 +8,8 @@ tweets:
 
 <p>May 24 2022: Explanation of the concept of ISM-FLUX for super-resolution imaging.</p>
 
-<video controls width="520">
-    <source src="https://www.youtube.com/watch?v=S0TZYv22s94"
-            type="video/webm">
-    Sorry, your browser doesn't support embedded videos.
-</video>
+<iframe width="520" height="315" src="https://www.youtube.com/watch?v=S0TZYv22s94" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <p>August 6 2021: RAI television reporting on the SPAD detector.</p>
 
