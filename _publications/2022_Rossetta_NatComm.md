@@ -3,7 +3,7 @@ title: "The BrightEyes-TTM as an open-source time-tagging module for democratisi
 collection: publications
 date: 2021-12-31
 venue: 'Nature Communications'
-authors: 'Alessandro Rossetta, Eli Slenders, Mattia Donato, Sabrina Zappone, Francesco Fersini, Martina Bruno, Francesco Diotalevi, Luca Lanzanò, Sami Koho, Giorgio Tortarolo, Andrea Barberis, Marco Crepaldi, Eleonora Perego, Giuseppe Vicidomini
+authors: 'Alessandro Rossetta, Eli Slenders, Mattia Donato, Sabrina Zappone, Francesco Fersini, Martina Bruno, Francesco Diotalevi, Luca Lanzanò, Sami Koho, Giorgio Tortarolo, Andrea Barberis, Marco Crepaldi, Eleonora Perego, Giuseppe Vicidomini'
 paperurl: https://doi.org/10.1038/s41467-022-35064-0
 doi: 10.1038/s41467-022-35064-0
 tagline: '- Paper'
