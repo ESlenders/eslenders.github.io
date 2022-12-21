@@ -2,7 +2,7 @@
 title: "Signal strength and integrated intensity in confocal and image scanning microscopy"
 collection: publications
 date: 2022-12-19
-venue: 'Journal of the Optical Society of America A'
+venue: 'Optical Society of America A'
 authors: 'Colin J. R. Sheppard, Marco Castello, Giorgio Tortarolo, Alessandro Zunino, Eli Slenders, Paolo Bianchini, Giuseppe Vicidomini, and Alberto Diaspro'
 paperurl: https://doi.org/10.1364/JOSAA.477240
 doi: 10.1364/JOSAA.477240
