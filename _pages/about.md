@@ -20,6 +20,10 @@ This project has received funding from the European Union’s Horizon 2020 resea
 
 <body align="justify">
 
+<figure style="width: 20%" class="align-center-custom">
+<img src='/images/EU_flag.png'>
+</figure>
+
 
   
 
