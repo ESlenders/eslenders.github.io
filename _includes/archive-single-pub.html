@@ -67,6 +67,12 @@
         <img src="{{ "stemcellsint.jpg" | prepend: "/images/journals/" | prepend: base_path }}" alt="">
 	  {% elsif post.venue == "Biophysical Reports" %}
         <img src="{{ "biophysrep.jpg" | prepend: "/images/journals/" | prepend: base_path }}" alt="">
+	  {% elsif post.venue == "Physical Review Research" %}
+        <img src="{{ "PhysRevRes.png" | prepend: "/images/journals/" | prepend: base_path }}" alt="">
+	  {% elsif post.venue == "Nature Photonics" %}
+        <img src="{{ "NatPhotonics.png" | prepend: "/images/journals/" | prepend: base_path }}" alt="">
+	  {% elsif post.venue == "Photonics" %}
+        <img src="{{ "Photonics.png" | prepend: "/images/journals/" | prepend: base_path }}" alt="">
       {% else %}
         <img src="{{ "journal.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% endif %}
