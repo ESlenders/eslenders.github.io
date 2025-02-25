@@ -3,10 +3,10 @@ title: "Open-source tools enable accessible and advanced image scanning microsco
 collection: publications
 date: 2023-05-22
 venue: 'Nature Photonics'
-authors: 'Alessandro Zunino, Eli Slenders, Francesco Fersini, Andrea Bucci, Mattia Donato, and Giuseppe Vicidomini'
+authors: 'Alessandro Zunino (1), Eli Slenders (1), Francesco Fersini, Andrea Bucci, Mattia Donato, and Giuseppe Vicidomini'
 paperurl: https://doi.org/10.1038/s41566-023-01216-x
 doi: 10.1038/s41566-023-01216-x
-tagline: '- Paper'
+tagline: '- Paper, (1) shared first author'
 type: "ISM"
 ---
 
